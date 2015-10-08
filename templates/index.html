@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Simple Form</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+<script type="text/javascript" charset="utf-8">
+// var delimiter;
+// var firstline;
+$(function() {
+	$("#submit").on("click",function(){
+		$.getJSON('/process', {
+          csv_text: $('textarea[name="inputCSV"]').val(),
+          entity: $('input[name="entity"]').val(),
+          subj_prefix :$('input[name="subjPrefix"]').val(),
+          pred_prefix :$('input[name="predPrefix"]').val(),
+          delimiter :$('select[name="delimiter"]').val(),
+          start: $('input[name="start"]').val(),
+          end: $('input[name="end"]').val(),
+          data_type: JSON.stringify($('.dataType').map( function(){return $(this).val(); }).get()),
+          namespace: $('textarea[name="namespace"]').val()
+        }, function(data) {
+          $("#result").text(data.result);
+        });
+        return false;
+      });
+
+	$('#header').on('change', function() {
+ 		var headerline=$("#inputText").val().split("\n")[$("#header").val()-1];
+ 		var header=headerline.split($('#delimiter').val());
+ 		if(header.length>1) drawTable(header);
+	});
+	$('#delimiter').on('change', function() {
+ 		var delimiter=this.value;
+ 		var headerline=$("#inputText").val().split("\n")[$("#header").val()-1];
+ 		var header=headerline.split(delimiter);
+ 		if(header.length>1) drawTable(header);
+	});
+	$('#inputText').on('change',function(){
+		var headerline=this.value.split("\n")[$("#header").val()-1];
+ 		var header=headerline.split($('#delimiter').val());
+ 		if(header.length>1) drawTable(header);
+ 		$('input[name="end"]').val(String(this.val().split("\n").length));
+	})
+	function drawTable(header){
+		$(".tb-content").remove();
+		$.each(header,function(i,e){
+			 $('#predicate > tbody').append('<tr class="tb-content"><td>' + e +'</td><td><select name="dataType" class="form-control dataType"><option value="">string</option><option value="^^<http://www.w3.org/2001/XMLSchema#int>">int</option><option value="^^<http://www.w3.org/2001/XMLSchema#float>">float</option><option value="^^<http://www.w3.org/2001/XMLSchema#date>">date</option></select></td></tr>');
+		});
+	}
+	
+});
+function loadfile(input){
+	    var reader = new FileReader();
+	    reader.onload = function(e){
+	        document.getElementById('inputText').value = e.target.result;
+	        var headerline=$("#inputText").val().split("\n")[$("#header").val()-1];
+	 		var header=headerline.split($('#delimiter').val());
+	 		if(header.length>1) drawTable(header);
+	 		$('input[name="end"]').val(String($('#inputText').val().split("\n").length));
+	    }
+	    reader.readAsText(input.files[0]);
+	    document.getElementById('entity').value = input.value.replace("C:\\fakepath\\","http://localhost/");
+}
+</script>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">CSV2RDF</a>
+    </div>
+  </div>
+</nav>
+ <div id="input_form" class="col-md-6">
+ 	 <form class="form-horizontal" role="form" action=".">
+ 	 	<div id='general'>
+	 	 	<div class="form-group">
+			    <label class="control-label col-md-4">File:</label>
+			    <div class="col-md-8">
+			      <input type="file" name="csv_file" onchange="loadfile(this)">
+			    </div>
+			 </div>
+			  <div class="form-group">
+			 	<label class="control-label col-md-4">CSV text:</label>
+			 	<div class="col-md-8">
+			 		<textarea class="form-control" id="inputText" name="inputCSV" rows="10" ></textarea>
+			 	</div>
+			 </div>
+			 <div class="form-group">
+			  	<label class="control-label col-sm-4">Entity Prefix</label>
+	        	<div class="col-md-8">
+			      <input type="text" class="form-control" id="entity" name="entity">
+			    </div>
+			 </div>
+
+			 <div class="form-group">
+			 	<label class="control-label col-md-4">Subject Prefix:</label>
+			 	<div class="col-md-8">
+			 		<input class="form-control" name="subjPrefix" rows="3" placeholder="subject"></input>
+			 	</div>
+			 </div>
+			  <div class="form-group">
+			 	<label class="control-label col-md-4">Predicate Prefix:</label>
+			 	<div class="col-md-8">
+			 		<input class="form-control" name="predPrefix" rows="3" placeholder="predicate"></input>
+			 	</div>
+			 </div>
+		 	 <div class="form-group">
+			     <label class="control-label col-md-4">Delimiter</label>
+			     <div class="col-md-4">
+			         <select class="form-control" name="delimiter" id='delimiter'>
+				        <option value=','>comma</option>
+				        <option value=';'>semicolon</option>
+				        <option value='|'>pipe</option>
+				        <option value='\s'>space</option>
+				        <option value='\s+'>tab</option>
+				        <option value='$'>dollar sign</option>
+				      </select>
+				  </div>
+		 	</div>
+		 	<div class="form-group">
+			  	<label class="control-label col-sm-4">Header Line</label>
+	        	<div class="col-md-4">
+			      <input type="number" class="form-control" name="header" id="header" value="1">
+			    </div>
+			 </div>
+	       	<div class="form-group">
+			  	<label class="control-label col-sm-4">Start line</label>
+	        	<div class="col-md-4">
+			      <input type="number" class="form-control" name="start" value="1">
+			    </div>
+			 </div>
+			 <div class="form-group">
+			  	<label class="control-label col-md-4">End line</label>
+	        	<div class="col-md-4">
+			      <input type="number" class="form-control" name="end">
+			    </div>	
+			 </div>
+			 <div class="form-group">
+			 	<label class="control-label col-md-4">Prefix Namespace:</label>
+			 	<div class="col-md-8">
+			 		<textarea class="form-control" id="namespace" name="namespace" rows="10" ></textarea>
+			 	</div>
+			</div>
+ 	 	</div>
+		
+		<div class="form-group"> 
+		    <div class="col-md-offset-4 col-md-8">
+		       <button type="submit" class="btn btn-default" id="submit" name="my-form" value="Send">Submit
+		    </div>
+		</div>
+</form>
+</div>
+<div id="result_field" class="col-md-6">
+	<div id='field' class='form-group'>
+		 	<table class="table table-striped" name="table" id="predicate">
+			    <thead>
+			      <tr>
+			        <th>Predicate</th>
+			        <th>Data Type</th>
+			        <!-- <th>Predicate Prefix</th> -->
+			      </tr>
+			    </thead>
+			     <tbody></tbody>
+			  </table>
+		</div>
+	<div id="RDF_output">
+		<form class="form" role="form" action="/process" method="post" enctype=multipart/form-data>
+			<div class="form-group">
+				<label class="control-label">Turtle File:</label>
+				<textarea class="form-control" name="outputRDF" rows="20" id="result" readonly></textarea>
+			</div>
+			<div class="col-md-offset-10 col-md-2">
+				<button type="submit" class="btn btn-primary">Download</button>	
+			</div>
+		</form>
+	</div>
+	
+</div>
+</body>
+</html>
