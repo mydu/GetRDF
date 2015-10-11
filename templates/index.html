@@ -96,18 +96,20 @@
 </div>
 <div id="result_field" class="col-md-6">
   <!-- <div id='field' class='form-group'> -->
-  <div class="panel panel-default">
-     <div class="panel-heading">Spreadsheet Preview (Total: {[endline]} lines)</div>
+  <div class="panel panel-default" style="height:300px;overflow:scroll">
+     <div class="panel-heading">Spreadsheet Preview (Total: {[endline-startline]} lines)</div>
       <table class="table table-striped" name="table" id="predicate">
           <thead>
             <tr>
+              <th>#</th>
               <th ng-repeat="i in header">{[i.name]}
                 <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateType()"></select>
               </th>
             </tr>
           </thead>
            <tbody>
-             <tr ng-repeat="i in data| limitTo:4">
+             <tr ng-repeat="i in data">
+              <td>{[$index+1]}</td>
               <td ng-repeat="j in i">{[j]}</td>
             </tr>
            </tbody>

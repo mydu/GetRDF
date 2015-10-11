@@ -23,7 +23,7 @@ app.controller('formCtrl', function($scope,$http) {
     $scope.data=[];
     $scope.headerline=0;
     $scope.startline=1;
-    $scope.endline='';
+    $scope.endline=1;
     $scope.csvText = '';
     $scope.entityPrefix='';
     $scope.subjPrefix='';
@@ -63,12 +63,13 @@ app.controller('formCtrl', function($scope,$http) {
      // console.log($scope.startline);
      // console.log($scope.endline);
      // console.log($scope.namespace);
+     console.log("here")
      var data={
       "header": $scope.header,
       "tableau": $scope.data,
       "datatype":$scope.datatype,
-      "start" :$scope.startline,
-      "end" : $scope.endline,
+      // "start" :$scope.startline,
+      // "end" : $scope.endline,
       "entity": $scope.entityPrefix,
       "subjPrefix":$scope.subjPrefix,
       "predPrefix":$scope.predPrefix,
@@ -84,38 +85,40 @@ app.controller('formCtrl', function($scope,$http) {
       });
    }
    $scope.parseCSV=function(){
-      var lines;
-      $scope.data = [];
-      $scope.header = [];
-      lines = $scope.csvText.split('\n');
-      lines=lines.filter(Boolean);
-      var header=lines[$scope.headerline].split($scope.delimiter.select);
-      if(lines[1].split($scope.delimiter.select).length==header.length){
-        header.forEach(function(e){
-          $scope.header.push({
-              name:e,
-              typeId:'1' 
-          })
-        });
-        $scope.endline=lines.length
-      } 
-      for (var i=1; i<lines.length  ; i++) {
-        var datalist = lines[i].split($scope.delimiter.select);
-        if (datalist.length == $scope.header.length) {
-            var tarr = [];
-            for (var j=0; j<$scope.header.length; j++) {
-                tarr.push(datalist[j]);
-            }
-            $scope.data.push(tarr);
+      if($scope.csvText!='' && $scope.delimiter.select!=null && $scope.startline!=null && $scope.endline!=null && $scope.headerline!=null){
+        var lines;
+        $scope.data = [];
+        $scope.header = [];
+        lines = $scope.csvText.split('\n');
+        lines=lines.filter(Boolean);
+        var header=lines[$scope.headerline].split($scope.delimiter.select);
+        if(lines[1].split($scope.delimiter.select).length==header.length){
+          header.forEach(function(e){
+            $scope.header.push({
+                name:e,
+                typeId:'1' 
+            })
+          });
+          $scope.endline=lines.length
+        } 
+        for (var i=$scope.startline; i<$scope.endline; i++) {
+          var datalist = lines[i].split($scope.delimiter.select);
+          if (datalist.length == $scope.header.length) {
+              var tarr = [];
+              for (var j=0; j<$scope.header.length; j++) {
+                  tarr.push(datalist[j]);
+              }
+              $scope.data.push(tarr);
+          }
         }
-      }
-      if($scope.data.length==lines.length-1) $scope.parseJson();
-      else $scope.turtle='';
+        if($scope.data.length==$scope.endline-$scope.startline) $scope.parseJson();
+        else $scope.turtle='';
+      }  
    }
-   $scope.$watchGroup(["csvText","delimiter.select","headerline"], function() {
-      if($scope.delimiter.select!=null) $scope.parseCSV();
+   $scope.$watchGroup(["csvText","delimiter.select","headerline","startline","endline"], function() {
+      $scope.parseCSV();
    });
-   $scope.$watchGroup(["entity","subjPrefix","predPrefix","startline","endline","namespace"], function() {
+   $scope.$watchGroup(["entity","subjPrefix","predPrefix","namespace"], function() {
       if ($scope.header.length>0) $scope.parseJson();
    });
    $scope.updateType=function(){

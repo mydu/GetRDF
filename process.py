@@ -22,13 +22,13 @@ def process_file():
 			header=data["header"]
 			table=data["tableau"]
 			datatype=data["datatype"]
-			start=int(data["start"])
-			end=int(data["end"])
+			# start=int(data["start"])
+			# end=int(data["end"])
 			entity=str(data["entity"]).strip()
 			subj_prefix=str(data["subjPrefix"]).strip()
 			pred_prefix=str(data["predPrefix"]).strip()
 			namespace=str(data["namespace"])
-			table=table[start-1:end-1]
+			# table=table[start-1:end-1]
 			result_text=procTable(header,datatype,table,entity,subj_prefix,pred_prefix)
 			result_text=prefix_handler(result_text,namespace)
 		else:
