@@ -14,6 +14,7 @@ def csvtolist(f,sep):
 	return lines
 
 def listcombination(lines,subj_prefix,entity,data_type,pred_prefix):
+	print lines
 	lines_new=lines
 
 	for i in range(1,len(lines_new)):
