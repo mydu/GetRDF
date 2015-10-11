@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>NG Form</title>
+    <link rel="stylesheet" href = "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+    <!-- // <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> -->
+    <script src="/static/js/app.js"></script>
+  </head>
+
+  <body ng-app="formApp" ng-controller="formCtrl">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">GetRDF</a>
+        </div>
+      </div>
+    </nav>
+  <div id="input_form" class="col-md-6">
+   <form class="form-horizontal" role="form" action=".">
+    <div id='general'>
+      <div class="form-group">
+          <label class="control-label col-md-4">File:</label>
+          <div class="col-md-8">
+            <input type="file" ng-model="fileName"
+            onchange="angular.element(this).scope().fileChanged()" id="csvFile"/>
+          </div>
+        </div>
+        <div class="form-group">
+        <label class="control-label col-md-4">CSV text:</label>
+        <div class="col-md-8">
+          <textarea class="form-control" id="inputText" name="inputCSV" ng-model="csvText" rows="10"></textarea>
+        </div>
+       </div>
+       <div class="form-group">
+           <label class="control-label col-md-4">Delimiter</label>
+           <div class="col-md-4">
+              <select class="form-control" name="delimiterSelect" id="delimiter" ng-model="delimiter.select">
+              <option ng-repeat="option in delimiter.availableOptions" value="{[option.value]}">{[option.name]}</option>
+              </select>
+          </div>
+       </div>
+       <div class="form-group">
+          <label class="control-label col-sm-4">Header Line</label>
+            <div class="col-md-4">
+            <input type="number" class="form-control" ng-model="headerline" name="header" id="header">
+          </div>
+      </div>
+       <div class="form-group">
+          <label class="control-label col-sm-4">Entity Prefix</label>
+            <div class="col-md-8">
+            <input type="text" class="form-control" ng-model="entityPrefix" id="entity" name="entity">
+          </div>
+       </div>
+
+       <div class="form-group">
+        <label class="control-label col-md-4">Subject Prefix:</label>
+        <div class="col-md-8">
+          <input class="form-control" ng-model="subjPrefix" name="subjPrefix" rows="3" placeholder="subject"></input>
+        </div>
+       </div>
+        <div class="form-group">
+        <label class="control-label col-md-4">Predicate Prefix:</label>
+        <div class="col-md-8">
+          <input class="form-control" ng-model="predPrefix" name="predPrefix" rows="3" placeholder="predicate"></input>
+        </div>
+       </div>
+
+          <div class="form-group">
+          <label class="control-label col-sm-4">Start line</label>
+            <div class="col-md-4">
+            <input type="number" class="form-control" name="start" ng-model="startline">
+          </div>
+       </div>
+       <div class="form-group">
+          <label class="control-label col-md-4">End line</label>
+            <div class="col-md-4">
+            <input type="number" class="form-control" ng-model="endline">
+          </div>  
+       </div>
+       <div class="form-group">
+        <label class="control-label col-md-4">Prefix Namespace:</label>
+        <div class="col-md-8">
+          <textarea class="form-control" ng-model="namespace" id="namespace" name="namespace" placeholder="@prefix" rows="3" ></textarea>
+        </div>
+      </div>
+    </div>
+    
+    <!-- <div class="form-group"> 
+        <div class="col-md-offset-4 col-md-8">
+           <button type="submit" class="btn btn-default" id="submit" name="my-form" value="Send">Submit
+        </div>
+    </div> -->
+</form>
+</div>
+<div id="result_field" class="col-md-6">
+  <!-- <div id='field' class='form-group'> -->
+  <div class="panel panel-default">
+     <div class="panel-heading">Spreadsheet Preview (Total: {[endline]} lines)</div>
+      <table class="table table-striped" name="table" id="predicate">
+          <thead>
+            <tr>
+              <th ng-repeat="i in header">{[i.name]}
+                <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateType()"></select>
+              </th>
+            </tr>
+          </thead>
+           <tbody>
+             <tr ng-repeat="i in data| limitTo:4">
+              <td ng-repeat="j in i">{[j]}</td>
+            </tr>
+           </tbody>
+        </table>
+  </div>
+  <div id="RDF_output">
+    <form class="form" role="form" action="/process" method="post" enctype=multipart/form-data>
+      <div class="form-group">
+        <label class="control-label">Turtle File:</label>
+        <textarea class="form-control" name="outputRDF" ng-model="turtle" rows="20" id="result" readonly></textarea>
+      </div>
+      <div class="col-md-offset-10 col-md-2">
+        <button type="submit" class="btn btn-primary">Download</button> 
+      </div>
+    </form>
+  </div> 
+</div>
+<!--    <form class="form-horizontal" role="form">
+      <div class="form-group">
+        <label class="col-sm-2 control-label">File</label>
+        <div class="col-sm-4">
+          <input type="file" file-reader="fileContent" />
+        </div>
+      </div>
+       <div class="form-group">
+        <label class="col-sm-2 control-label">Choose a Delimiter</label>
+          <div class="col-sm-2">
+            <select class="form-control" name="delimiterSelect" id="delimiter" ng-model="delimiter.defaultSelect">
+            <option ng-repeat="option in delimiter.availableOptions" value="{[option.id]}">{[option.name]}</option>
+             </select>
+        </div>
+      </div>
+    </form> -->
+  </body>
+
+</html>
