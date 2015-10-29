@@ -2,13 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>NG Form</title>
-    <link rel="stylesheet" href = "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
-    <!-- // <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> -->
+    <title>GetRDF</title>
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <script src="/static/js/lib/jquery-1.11.3.min.js"></script>   
+    <script src="/static/js/lib/bootstrap.min.js"></script>    
+    <script src="/static/js/lib/angular.min.js"></script>
     <script src="/static/js/app.js"></script>
   </head>
-
+<style>
+ /* #csvFile {
+    display: none;
+  }*/
+</style>
   <body ng-app="formApp" ng-controller="formCtrl">
     <nav class="navbar navbar-default">
       <div class="container-fluid">
@@ -17,14 +22,29 @@
         </div>
       </div>
     </nav>
-  <div id="input_form" class="col-md-6">
-   <form class="form-horizontal" role="form" action=".">
-    <div id='general'>
+<div id="input_form" >
+   <form class="form-horizontal" role="form" action="/process" method="post" enctype=multipart/form-data>
+    <div id='general' class="col-md-6">
       <div class="form-group">
           <label class="control-label col-md-4">File:</label>
           <div class="col-md-8">
-            <input type="file" ng-model="fileName"
-            onchange="angular.element(this).scope().fileChanged()" id="csvFile"/>
+            <input id="fc" type="checkbox" ng-model="checked" ng-init="checked=true" title="Check to upload directories" ng-change="checkChanged()">
+            <input type="file" id="csvFile" name="file[]" ng-model="fileName"
+            onchange="angular.element(this).scope().fileChanged(this)" accept=".csv,.txt" multiple webkitdirectory>
+            <!-- <button class="btn btn-primary btn-file" ng-click="">File</button> -->
+           <!--  <input type="file" id="folder" multiple webkitdirectory ng-model="fileName"
+            onchange="angular.element(this).scope().folderChanged()" /> -->
+             <select ng-model="file" name="fileSelect" ng-options="file.webkitRelativePath || file.name for file in filelist" ng-value="file.name" ng-change="fileSelectChanged()" ng-show="filelist.length>0"><option value="">Choose a file</option></select>
+            <!-- <select id="filelist" ng-model="file" ng-show="filelist.length" ng-change="fileSelectChanged()">
+              <option value="">Choose a file</option>
+              <option ng-repeat="file in filelist" >
+                <span>{[file.webkitRelativePath || file.name]}</span> -->
+                 <!-- (<span ng-switch="file.size > 1024*1024">
+                    <span ng-switch-when="true">{[file.size / 1024 / 1024 | number:2]} MB</span>
+                    <span ng-switch-default>{[file.size / 1024 | number:2]} kB</span>
+                </span>) -->
+             <!--  </option> 
+            </select> -->
           </div>
         </div>
         <div class="form-group">
@@ -76,7 +96,7 @@
        <div class="form-group">
           <label class="control-label col-md-4">End line</label>
             <div class="col-md-4">
-            <input type="number" class="form-control" ng-model="endline">
+            <input type="number" class="form-control" name="end" ng-model="endline" ng-value="datalength" >
           </div>  
        </div>
        <div class="form-group">
@@ -92,41 +112,60 @@
            <button type="submit" class="btn btn-default" id="submit" name="my-form" value="Send">Submit
         </div>
     </div> -->
-</form>
-</div>
-<div id="result_field" class="col-md-6">
-  <!-- <div id='field' class='form-group'> -->
-  <div class="panel panel-default" style="height:300px;overflow:scroll">
-     <div class="panel-heading">Spreadsheet Preview (Total: {[endline-startline]} lines)</div>
-      <table class="table table-striped" name="table" id="predicate">
-          <thead>
-            <tr>
-              <th>#</th>
-              <th ng-repeat="i in header">{[i.name]}
-                <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateType()"></select>
-              </th>
-            </tr>
-          </thead>
-           <tbody>
-             <tr ng-repeat="i in data">
-              <td>{[$index+1]}</td>
-              <td ng-repeat="j in i">{[j]}</td>
-            </tr>
-           </tbody>
-        </table>
-  </div>
-  <div id="RDF_output">
-    <form class="form" role="form" action="/process" method="post" enctype=multipart/form-data>
-      <div class="form-group">
-        <label class="control-label">Turtle File:</label>
-        <textarea class="form-control" name="outputRDF" ng-model="turtle" rows="20" id="result" readonly></textarea>
+<!-- </form> -->
+<!-- </div>
+ -->
+    <div id="result_field" class="col-md-6">
+      <!-- <div id='field' class='form-group'> -->
+      <div class="panel panel-default" style="height:300px;overflow:scroll">
+         <div class="panel-heading">Spreadsheet Preview (Total: {[endline-startline]} lines)</div>
+          <table class="table table-striped" name="table" id="predicate">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th ng-repeat="i in header">{[i.name]}
+                    <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateType()"></select>
+                  </th>
+                </tr>
+              </thead>
+               <tbody>
+                 <tr ng-repeat="i in data">
+                  <td>{[$index+1]}</td>
+                  <td ng-repeat="j in i">{[j]}</td>
+                </tr>
+               </tbody>
+            </table>
       </div>
-      <div class="col-md-offset-10 col-md-2">
-        <button type="submit" class="btn btn-primary">Download</button> 
-      </div>
-    </form>
-  </div> 
+      <div id="RDF_output">
+        <!-- <form class="form" role="form" action="/process" method="post" enctype=multipart/form-data> -->
+          <div class="form-group">
+            <label class="control-label">Turtle File:</label>
+            <textarea class="form-control" name="outputRDF" ng-model="turtle" rows="20" id="result" readonly></textarea>
+          </div>
+        <!-- </form> -->
+      </div> 
+    </div>
+    <div>
+      <div class="col-md-2"></div>
+      <div class="col-md-3">
+            <button type="submit" class="btn btn-success" name="download" value="currentFile">
+              <span class="glyphicon glyphicon-download-alt"></span>
+              Download Current File(.ttl)
+            </button>
+          </div>
+          <div class="col-md-3">
+            <button type="submit" class="btn btn-primary" name="download" value="allFile">
+              <span class="glyphicon glyphicon-download-alt"></span></span> Download to One File(.ttl)</button>
+          </div>
+          <div class="col-md-3">
+            <button type="submit" class="btn btn-primary" name="download" value="multiFile">
+              <span class="glyphicon glyphicon-download-alt"></span></span>
+              Download to Multiple Files(.zip) </button>
+          </div>
+    </div>
+  </form>
 </div>
+
 <!--    <form class="form-horizontal" role="form">
       <div class="form-group">
         <label class="col-sm-2 control-label">File</label>
