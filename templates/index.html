@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="form-group">
-        <label class="control-label col-md-4">CSV text:</label>
+        <label class="control-label col-md-4">CSV Text:</label>
         <div class="col-md-8">
           <textarea class="form-control" id="inputText" name="inputCSV" ng-model="csvText" rows="10"></textarea>
         </div>
@@ -58,6 +58,16 @@
            <div class="col-md-4">
               <select class="form-control" name="delimiterSelect" id="delimiter" ng-model="delimiter.select">
               <option ng-repeat="option in delimiter.availableOptions" value="{[option.value]}">{[option.name]}</option>
+              </select>
+          </div>
+       </div>
+       <div class="form-group">
+           <label class="control-label col-md-4">Unicode</label>
+           <div class="col-md-4">
+             <!-- <select class="form-control" name="unicode" ng-model="unicode.select"
+              ng-options="option.value for option in unicode.availableOptions track by option.id"><option>{[option.value]}</option></select> -->
+              <select class="form-control" name="unicode" ng-model="unicode.select">
+                <option ng-repeat="option in unicode.availableOptions track by option.id" value="{[option.value]}">{[option.value]}</option>
               </select>
           </div>
        </div>
@@ -97,6 +107,7 @@
           <label class="control-label col-md-4">End line</label>
             <div class="col-md-4">
             <input type="number" class="form-control" name="end" ng-model="endline" ng-value="datalength" >
+            <span>(total: {[ttline]} lines)</span>
           </div>  
        </div>
        <div class="form-group">
@@ -117,21 +128,50 @@
  -->
     <div id="result_field" class="col-md-6">
       <!-- <div id='field' class='form-group'> -->
+      <div id="ontoSparql" class="panel panel-default" style="height:300px;overflow:scroll">
+        <div class="panel-heading"> 
+          <div class="input-group">
+          <input type="text" class="form-control" name="owlURI" ng-model="owlURI" placeholder="Import Published OWL">
+          <input name="queryURL" ng-model="queryUrl" style="display:none"></input>
+          <span class="input-group-btn">
+            <button class="btn btn-success" type="button" ng-click="owlSparql()">Query</button>
+         </span>
+        </div>
+       <span class="label label-danger">Make sure your sparql endpoint is open</span>
+        </div>
+        <table class="table table-striped" name="ontotable" id="owl">
+              <thead>
+                <tr>
+                  <th>ontology</th>
+                  <th>label</th>
+                  <th>comment</th>
+                </tr>
+              </thead>
+               <tbody>
+                 <tr ng-repeat="i in onto">
+                  <td>{[i.value]}</td>
+                  <td>{[i.label]}</td>
+                  <td>{[i.comment]}</td>
+                </tr>
+               </tbody>
+            </table>
+      </div>
       <div class="panel panel-default" style="height:300px;overflow:scroll">
-         <div class="panel-heading">Spreadsheet Preview (Total: {[endline-startline]} lines)</div>
+         <div class="panel-heading">Spreadsheet Preview</div>
           <table class="table table-striped" name="table" id="predicate">
               <thead>
                 <tr>
                   <th>#</th>
                   <th ng-repeat="i in header">{[i.name]}
-                    <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateType()"></select>
+                    <select name="datatype" ng-model="i.typeId" ng-options="type.id as type.name for type in datatype" ng-change="updateHeader()"></select>
+                    <select name="onto" ng-model="i.ontoId" ng-options="ontology.id as ontology.label for ontology in onto" ng-change="updateHeader()"></select>
                   </th>
                 </tr>
               </thead>
                <tbody>
                  <tr ng-repeat="i in data">
                   <td>{[$index+1]}</td>
-                  <td ng-repeat="j in i">{[j]}</td>
+                  <td ng-repeat="j in i track by $index">{[j]}</td>
                 </tr>
                </tbody>
             </table>

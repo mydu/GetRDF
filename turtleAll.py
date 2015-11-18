@@ -4,6 +4,7 @@ import re
 
 SUBJPREFIX="SUBJPREFIX"
 CLASS="csv"
+UNICODE="utf-8"
 
 DATATYPE={"1":"",
 "2":"^^<http://www.w3.org/2001/XMLSchema#int>",
@@ -16,9 +17,8 @@ def csvtolist(f,sep):
 		lines.append(line)
 	return lines
 
-def listcombination(lines,subj_prefix,entity,data_type,pred_prefix):
+def listcombination(lines,subj_prefix,entity,data_type,onto_type,pred_prefix,encode,owlDict):
 	lines_new=lines
-
 	for i in range(1,len(lines_new)):
 		
 		lines_new[i]=['a <'+entity+'>']+lines_new[i]
@@ -27,13 +27,22 @@ def listcombination(lines,subj_prefix,entity,data_type,pred_prefix):
 			count=0
 			if lines_new[i][j]!='':
 				typeID=str(data_type[j-2]).split(':')[-1]
-				lines_new[i][j]='<'+str(pred_prefix)+lines[0][j-2]+'> "'+lines_new[i][j]+'"'+DATATYPE[typeID]+' ;'
+				ontoID=str(onto_type[j-2]).split(':')[-1]
+				if ontoID!="1":
+					lines_new[i][j]='<'+str(owlDict[ontoID])+'> "'+lines_new[i][j]+'"'+DATATYPE[typeID]+' ;'
+					# lines_new[i][j]='<'+str(pred_prefix)+lines[0][j-2]+'> "'+lines_new[i][j]+'"'+DATATYPE[typeID]+' ;'
+				else:
+					lines_new[i][j]='<'+str(pred_prefix)+lines[0][j-2]+'> "'+lines_new[i][j]+'"'+DATATYPE[typeID]+' ;'
 			else:
 				count+=1
 
 		if lines_new[i][-1]!='':
 			typeID=str(data_type[-(count+1)]).split(':')[-1]
-			lines_new[i][-1]='<'+str(pred_prefix)+lines[0][-1]+'> "'+lines_new[i][-1]+'"'+DATATYPE[typeID]+''		
+			ontoID=str(onto_type[j-2]).split(':')[-1]
+			if ontoID!="1":
+				lines_new[i][-1]='<'+str(owlDict[ontoID])+'> "'+lines_new[i][-1]+'"'+DATATYPE[typeID]+''
+			else:
+				lines_new[i][-1]='<'+str(pred_prefix)+lines[0][-1]+'> "'+lines_new[i][-1]+'"'+DATATYPE[typeID]+''		
 	return lines_new			
 
 def listextraction(lines,start=None,end=None):
@@ -42,14 +51,14 @@ def listextraction(lines,start=None,end=None):
 	return lines_new
 
 # b=listextraction(a,0,4)
-def csvtoturtle(filename,sep,start=1,end=None,subj_prefix=SUBJPREFIX,entity=CLASS,data_type=[],pred_prefix=[]):
+def csvtoturtle(filename,sep,start=1,end=None,subj_prefix=SUBJPREFIX,entity=CLASS,data_type=[],onto_type=[],pred_prefix=[],encode=UNICODE,owlDict={}):
 
 #a is a list contains all of the original info of the csv file
 	a=csvtolist(filename,sep)
 	if end is None:
 		end=len(a)	
 #the function listcombination is the function that adds prefix to the original info of csv
-	b=listcombination(a,subj_prefix,entity,data_type,pred_prefix)
+	b=listcombination(a,subj_prefix,entity,data_type,onto_type,pred_prefix,encode,owlDict)
 #c is extraction	
 	c=listextraction(b,start,end)
 	result=[]

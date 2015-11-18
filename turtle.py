@@ -1,17 +1,23 @@
 import re
 
-def headerType(header,datatype):
+def headerType(header,datatype,onto):
 	headertype=[]
 	headerId=[i['typeId'] for i in header]
+
 	for i in header:
 		for j in datatype:
 			if i['typeId']==j['id']:
 				i["type"]=j["name"]
 				i["typeValue"]=j["value"]
+		for k in onto:
+			if i['ontoId']==k['id']:
+				i["ontoType"]=k["label"]
+				i["ontoValue"]=k["value"]
 	return header
 
-def procTable(header,datatype,table,entity,subj_prefix,pred_prefix):
-	header=headerType(header,datatype)
+def procTable(header,datatype,onto,table,entity,subj_prefix,pred_prefix,encode):
+	header=headerType(header,datatype,onto)
+	# print header
 	lines_new=table
 	result=[]
 	for i in range(len(table)):
@@ -20,12 +26,18 @@ def procTable(header,datatype,table,entity,subj_prefix,pred_prefix):
 		for j in range(2,len(lines_new[i])-1):
 			count=0
 			if lines_new[i][j]!='':
-				lines_new[i][j]='<'+pred_prefix+str(header[j-2]["name"])+'> "'+lines_new[i][j]+'"'+str(header[j-2]["typeValue"])+' ;'
+				if str(header[j-2]["ontoId"])!="1":
+					lines_new[i][j]='<'+str(header[j-2]["ontoValue"])+'> "'+lines_new[i][j].encode("utf-8")+'"'+str(header[j-2]["typeValue"])+' ;'
+				else:
+					lines_new[i][j]='<'+pred_prefix+str(header[j-2]["name"].encode(encode))+'> "'+lines_new[i][j].encode(encode)+'"'+str(header[j-2]["typeValue"])+' ;'
 			else:
 				count+=1
 
 		if lines_new[i][-1]!='':
-		   lines_new[i][-1]='<'+pred_prefix+str(header[-1]["name"])+'> "'+lines_new[i][-1]+'"'+str(header[-1]["typeValue"])+''	
+			if str(header[-1]["ontoId"])!="1":
+				lines_new[i][-1]='<'+str(header[-1]["ontoValue"])+'> "'+lines_new[i][-1].encode("utf-8")+'"'+str(header[-1]["typeValue"])+''
+			else:
+				lines_new[i][-1]='<'+pred_prefix+str(header[-1]["name"].encode(encode))+'> "'+lines_new[i][-1].encode(encode)+'"'+str(header[-1]["typeValue"])+''	
     
     #delete all the empty element in lines_new
 	for i in range(len(lines_new)):
