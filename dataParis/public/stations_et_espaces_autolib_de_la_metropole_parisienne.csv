@@ -1,0 +1,870 @@
+ID;Identifiant Autolib';Rue;Code postal;Ville;Coordonnées geo;Emplacement;Autolib';Tiers;Abri
+75120-22;Paris/Harpignies/3;3 rue Harpignies;75020;Paris;48.8587455, 2.4101638;Voirie;4;1;0
+75120-28;Paris/Gambetta/65;65 Avenue Gambetta;75020;Paris;48.8650994, 2.3963304;Voirie;4;1;0
+75120-29;Paris/Pelleport/86;86 rue Pelleport;75020;Paris;48.8676044, 2.4021436;Voirie;4;0;0
+75120-44;Paris/Mortier/15;15 boulevard Mortier;75020;Paris;48.8657, 2.408668;Voirie;4;0;0
+91691-01;Yerres/Raymond Pointcarré/200;200 rue Raymond Pointcarré;91330;Yerres;48.72137, 2.499908;Voirie;6;1;0
+91691-02;Yerres/Charles-de-Gaulle/1;1 rue Charles-de-Gaulle;91330;Yerres;48.716666, 2.488177;Voirie;6;1;0
+91691-03;Yerres/Pierre Brossolette/92;92 rue Pierre Brossolette;91330;Yerres;48.7006549, 2.4828313;Voirie;7;0;0
+92004-03;Asnières-sur-Seine/Normandie/22;22 rue de Normandie;92600;Asnières-sur-Seine;48.9059332, 2.2852074;Voirie;7;0;0
+92004-04;Asnières-sur-Seine/Marne/44;44 avenue de la Marne;92600;Asnières-sur-Seine;48.9073637, 2.2830507;Voirie;5;0;0
+92004-11;Asnières-sur-Seine/Bas/6;6 Rue des Bas;92600;Asnières-sur-Seine;48.9164, 2.295224;Voirie;6;0;1
+92004-14;Asnières-sur-Seine/Benoît Malon/8;8 Rue Benoît Malon;92600;Asnières-sur-Seine;48.9094941, 2.2754817;Voirie;6;0;0
+92004-15;Asnières-sur-Seine/Olympe de Gouge/1;1 rue Olympe de Gouge;92600;Asnières-sur-Seine;48.9179468, 2.3189865;Voirie;6;0;0
+92007-01;Bagneux/Léon Blum/13;13 Rue Léon Blum;92220;Bagneux;48.7941792, 2.3017033;Voirie;6;0;0
+92012-01;Boulogne-Billancourt/Édouard Vaillant/81;81 avenue Édouard Vaillant;92100;Boulogne-Billancourt;48.8344135, 2.2464756;Voirie;6;0;0
+92012-12;Boulogne-Billancourt/Henri Martin/2;2 rue Henri Martin;92100;Boulogne-Billancourt;48.8365078, 2.2524132;Voirie;6;0;0
+92012-34;Boulogne-Billancourt/Meudon/40;40 rue de Meudon;92100;Boulogne-Billancourt;48.8281027, 2.2422542;Voirie;6;0;0
+92019-01;Châtenay-Malabry/Jean Jaurès/280;280 avenue Jean Jaurès;92290;Châtenay-Malabry;48.76739, 2.255521;Voirie;6;0;0
+92019-02;Châtenay-Malabry/Sully Prudhomme/33;33 Avenue Sully Prudhomme;92290;Châtenay-Malabry;48.76587, 2.290613;Voirie;6;0;0
+92020-02;Châtillon/République/140;140 Avenue de la République;92320;Châtillon;48.8064005, 2.2982685;Voirie;5;0;0
+92022-03;Chaville/Pavé des Gardes/33;33 route du Pavé des Gardes;92370;Chaville;48.80551, 2.184925;Voirie;6;0;0
+92022-04;Chaville/Roger Salengro/705;705 Avenue Roger Salengro;92370;Chaville;48.8149125, 2.1935315;Voirie;6;0;0
+92023-09;Clamart/De Gaulle/233;233 avenue Général De Gaulle;92140;Clamart;48.7870782, 2.255763;Voirie;6;0;0
+92023-11;Clamart/République/2;2 avenue de la République;92140;Clamart;48.78123, 2.238153;Voirie;6;0;0
+92025-05;Colombes/Henri Barbusse/16;16 Avenue Henri Barbusse;92700;Colombes;48.92257, 2.25258;Voirie;6;0;0
+92025-06;Colombes/Gounod/1;1 Rue Gounod;92700;Colombes;48.9236174, 2.2483611;Voirie;6;0;0
+92025-11;Colombes/Gabriel Péri/335;335 rue Gabriel Péri;92700;Colombes;48.9172575, 2.2365491;Voirie;5;0;0
+92025-13;Colombes/Seine/52;52 rue de Seine;92700;Colombes;48.9201379, 2.2271027;Voirie;5;0;0
+92025-17;Colombes/Valmy/160;160 Boulevard de Valmy;92700;Colombes;48.93586, 2.257037;Voirie;7;0;0
+92025-18;Colombes/Parc Lagravère/1;1 allée Parc Lagravère;92700;Colombes;48.92648, 2.234716;Voirie;7;0;0
+92032-01;Fontenay-aux-Roses/Jean Jaurès/3;3 rue Jean Jaurès;92260;Fontenay-aux-Roses;48.7906824, 2.28727;Voirie;4;0;1
+92035-05;La Garenne-Colombes/National/31;31 boulevard National;92250;La Garenne-Colombes;48.90347, 2.239274;Voirie;6;0;0
+92035-06;La Garenne-Colombes/Verdun/41;41 avenue de Verdun;92250;La Garenne-Colombes;48.90387, 2.230934;Voirie;6;0;0
+92036-07;Gennevilliers/Gabriel Péri/169;169 avenue Gabriel Péri;92230;Gennevilliers;48.9242205, 2.2942668;Voirie;6;0;1
+92036-12;Gennevilliers/Louise Michel/36;36 Boulevard Louise Michel;92230;Gennevilliers;48.9226538, 2.320639;Voirie;6;0;0
+92036-13;Gennevilliers/Louis Roche/125;125 Avenue Louis Roche;92230;Gennevilliers;48.9269437, 2.3143339;Voirie;6;0;0
+92040-05;Issy-les-Moulineaux/Verdun/135;135 avenue de Verdun;92130;Issy-les-Moulineaux;48.81855, 2.25291;Voirie;6;0;0
+92040-08;Issy-les-Moulineaux/Îles/21;21 Boulevard des Îles;92130;Issy-les-Moulineaux;48.8226736, 2.2498224;Voirie;6;0;0
+92040-11;Issy-les-Moulineaux/Promenade du Verger/166;166 promenade du Verger;92130;Issy-les-Moulineaux;48.81731, 2.27009;Voirie;6;0;0
+92040-17;Issy-les-Moulineaux/Bara/28;28 Rue Bara;92130;Issy-les-Moulineaux;48.8326967, 2.2682505;Voirie;6;0;0
+92040-19;Issy-les-Moulineaux/Champ Chardon/44;44 Rue de Champ Chardon;92130;Issy-les-Moulineaux;48.821914, 2.252089;Voirie;6;0;0
+92046-04;Malakoff/Charles de Gaulle/47;47 Boulevard Charles de Gaulle;92240;Malakoff;48.82317, 2.29935;Voirie;6;0;1
+92046-06;Malakoff/Pierre Brossolette/192;192 avenue Pierre Brossolette;92240;Malakoff;48.8139, 2.302489;Voirie;6;0;0
+92046-07;Malakoff/Legrand/1;1 Rue Legrand;92240;Malakoff;48.8242495, 2.3038947;Voirie;5;0;0
+92046-09;Malakoff/Malleret Joinville/2;2 Rue du Général Malleret Joinville;92240;Malakoff;48.8118151, 2.2811943;Voirie;6;0;0
+92048-01;Meudon/Ponceau/2;2 rue Ponceau;92190;Meudon;48.8124566, 2.2378816;Voirie;4;0;0
+92048-05;Meudon/Terre Neuve/3;3 bis rue Terre Neuve;92190;Meudon;48.8077664, 2.2350182;Voirie;6;0;0
+92048-07;Meudon/Jeanne Braconnier/3;3 rue Jeanne Braconnier;92360;Meudon-la-Forêt;48.7886841, 2.2114032;Voirie;6;0;0
+92048-08;Meudon/Maréchal Juin/18;18 avenue du Maréchal Juin;92360;Meudon-la-Forêt;48.788083, 2.216266;Voirie;6;0;0
+92049-02;Montrouge/Jean Jaurès/51;51 avenue Jean Jaurès;92120;Montrouge;48.81634, 2.311644;Voirie;6;0;0
+92049-16;Montrouge/Verdun/36;36 avenue de Verdun;92120;Montrouge;48.8102056, 2.3170366;Voirie;6;0;0
+92050-07;Nanterre/Gambetta/20;20 Rue Gambetta;92000;Nanterre;48.88807, 2.199446;Voirie;6;0;1
+92050-14;Nanterre/Pablo Picasso/74;74 Avenue Pablo Picasso;92000;Nanterre;48.889311, 2.220071;Voirie;6;0;0
+92050-17;Nanterre/Lamartine/41;41 Rue Lamartine;92000;Nanterre;48.8900677, 2.1857686;Voirie;6;0;0
+92050-20;Nanterre/Jules Quentin/33;33 Avenue Jules Quentin;92000;Nanterre;48.8953323, 2.1910555;Voirie;6;0;0
+92050-23;Nanterre/Rigault/1;1 Rue Rigault;92000;Nanterre;48.89334, 2.198058;Voirie;6;0;0
+92050-31;Nanterre/République/326;326 Avenue de la République;92000;Nanterre;48.9088989, 2.215978;Voirie;6;0;0
+92050-32;Nanterre/Union/13;13 Rue de l'Union;92000;Nanterre;48.898941, 2.1927044;Voirie;6;0;0
+92062-04;Puteaux/Arago/52;52 rue Arago;92800;Puteaux;48.8860877, 2.2478443;Voirie;5;0;0
+92062-05;Puteaux/Charles De Gaulle/70;70 Avenue Charles De Gaulle;92800;Puteaux;48.887385, 2.232151;Voirie;6;0;0
+92062-06;Puteaux/Francis de Pressensé/12;12 Rue Francis de Pressensé;92800;Puteaux;48.8761876, 2.2361346;Voirie;6;0;0
+92063-12;Rueil-Malmaison/Paul Doumer/3;3 avenue Paul Doumer;92500;Rueil-Malmaison;48.8839089, 2.1919207;Voirie;6;0;0
+92064-02;Saint-Cloud/Armengaud/12;12 rue Armengaud;92220;Saint-Cloud;48.8468382, 2.2167157;Voirie;6;1;0
+92071-03;Sceaux/Franklin Roosevelt/60;60 Avenue du Président Franklin Roosevelt;92330;Sceaux;48.7771124, 2.2965901;Voirie;6;0;1
+92072-13;Sèvres/Wolfenbüttel/1;1 Rue de Wolfenbüttel;92310;Sèvres;48.812502, 2.213332;Voirie;6;0;0
+92073-04;Suresnes/Henri Sellier/50;50 Boulevard Henri Sellier;92150;Suresnes;48.86847, 2.223116;Voirie;6;0;0
+92073-05;Suresnes/Jean Jaurès/21;21 avenue Jean Jaurès;92150;Suresnes;48.8636819, 2.208944;Voirie;6;0;0
+92073-08;Suresnes/Huché/26;26 rue Huché;92150;Suresnes;48.8766119, 2.2218839;Voirie;5;1;0
+92073-14;Suresnes/Marcel Monge/2;2 Rue Marcel Monge;92150;Suresnes;48.86121, 2.224382;Voirie;5;1;0
+92075-05;Vanves/Jean Jaurès/101;101 rue Jean Jaurès;92170;Vanves;48.8258129, 2.2906328;Voirie;6;0;0
+92077-01;Ville-d'Avray/Charles de Gaulle/1;1 place Charles de Gaulle;92410;Ville-d'Avray;48.826, 2.18935;Voirie;6;0;1
+92099-02;Courbevoie/André Prothin/12;12 Avenue André Prothin;92400;Courbevoie;48.89238, 2.245286;Voirie;5;0;1
+92999-04;Vaucresson/Victor Pauchet/31;31 rue du Professeur Victor Pauchet;92420;Vaucresson;48.8479, 2.175519;Voirie;2;0;0
+93006-05;Bagnolet/République/58;58 avenue de la République;93170;Bagnolet;48.8611263, 2.4181508;Voirie;6;0;0
+93013-01;Le Bourget/Chevalier de la Barre/7;7 Rue du Chevalier de la Barre;93350;Le Bourget;48.9311, 2.424912;Voirie;6;0;0
+93013-02;Le Bourget/Anizan Cavillon/10;10 Rue Anizan Cavillon;93350;Le Bourget;48.9350451, 2.424831;Voirie;6;0;1
+93013-04;Le Bourget/Élise Deroche/10;10 avenue Élise Deroche;93350;Le Bourget;48.93211, 2.426913;Voirie;6;0;0
+93029-09;Drancy/Marcelin Berthelot/73;73 rue Marcelin Berthelot;93700;Drancy;48.9177255, 2.4464355;Voirie;4;0;0
+93029-12;Drancy/Roger Salengro/97;97 Rue Roger Salengro;93700;Drancy;48.9166381, 2.4362063;Voirie;6;0;0
+93045-01;Les Lilas/Georges Pompidou/3;3 Rue Georges Pompidou;93260;Les Lilas;48.8793959, 2.4156066;Voirie;5;1;1
+93045-02;Les Lilas/Bruyères/10;10 Rue des Bruyères;93260;Les Lilas;48.8783253, 2.413255;Voirie;6;1;0
+93063-03;Romainville/Pierre Kerautret/40;40 avenue Pierre Kerautret;93230;Romainville;48.8826947, 2.4435891;Voirie;6;0;1
+93064-04;Rosny-sous-Bois/Lisbonne/16;16 rue de Lisbonne;93110;Rosny-sous-Bois;48.88093, 2.472356;Voirie;6;0;0
+93064-05;Rosny-sous-Bois/Léon Blum/10;10 rue Léon Blum;93110;Rosny-sous-Bois;48.88126, 2.480821;Voirie;7;0;0
+93070-02;Saint-Ouen/Dulcie September/3;3 Rue Dulcie September;93400;Saint-Ouen;48.90573, 2.321015;Voirie;6;0;0
+93070-06;Saint-Ouen/Moutier/1;1 Rue du Moutier;93400;Saint-Ouen;48.9178855, 2.3323373;Voirie;4;0;0
+93070-10;Saint-Ouen/Entrepôts/2;2 Rue des Entrepôts;93400;Saint-Ouen;48.9034828, 2.3470283;Voirie;5;0;0
+93070-11;Saint-Ouen/Michelet/42;42 Avenue Michelet;93400;Saint-Ouen;48.9102315, 2.3441112;Voirie;6;0;0
+94003-06;Arcueil/Paul Bert/21;21 rue Paul Bert;94110;Arcueil;48.8042795, 2.3288429;Voirie;6;0;0
+94016-03;Cachan/Pont Royal/24;24 Avenue du Pont Royal;94230;Cachan;48.7929328, 2.3217392;Voirie;6;0;0
+94018-04;Charenton-le-Pont/Jean Jaurès/4;4 Avenue Jean Jaurès;94220;Charenton-le-Pont;48.82214, 2.413997;Voirie;4;0;1
+94028-04;Créteil/Claude-Nicolas Ledoux/4;4 rue Claude-Nicolas Ledoux;94000;Créteil;48.766, 2.470911;Voirie;6;0;0
+94028-08;Créteil/Archives/5;5 Rue des Archives;94000;Créteil;48.78363, 2.456881;Voirie;6;0;0
+94028-17;Créteil/Mesly/5;5 rue de Mesly;94000;Créteil;48.79177, 2.459949;Voirie;6;0;0
+94042-04;Joinville-le-Pont/Mozart/18;18 Place Mozart;94340;Joinville-le-Pont;48.8245149, 2.4753934;Voirie;6;0;0
+94044-05;Limeil-Brévannes/Ruelle de Paris/5;5 Ruelle de Paris;94450;Limeil-Brévannes;48.7508, 2.473075;Voirie;7;0;0
+94067-09;Saint-Mandé/Daumesnil/11;11 avenue Daumesnil;94160;Saint-Mandé;48.83369, 2.414124;Voirie;7;0;0
+94069-PA;Saint-Maurice/Montgolfier/Parking;Place Montgolfier - Parking Montgolfier;94410;Saint-Maurice;48.814875, 2.4592711;Parking;6;0;0
+94076-06;Villejuif/René Hamon/30;30 Rue René Hamon;94800;Villejuif;48.7906029, 2.3613621;Voirie;6;0;0
+94076-08;Villejuif/Épi d'Or/2;2 avenue de l'Épi dOr;94800;Villejuif;48.78148, 2.354342;Voirie;6;0;0
+75101-08;Paris/Croix des Petits Champs/4;4 Rue Croix des Petits Champs;75001;Paris;48.8624631, 2.3393006;Voirie;4;0;0
+75120-38;Paris/Frédérique Loliée/5;5 rue Frédérique Loliée;75020;Paris;48.8495131, 2.4061582;Voirie;4;1;0
+75120-45;Paris/Belleville/22;22 Boulevard de Belleville;75020;Paris;48.8679058, 2.3826171;Voirie;4;0;0
+92004-08;Asnières-sur-Seine/Argenteuil/152;152 avenue d'Argenteuil;92600;Asnières-sur-Seine;48.9175117, 2.281802;Voirie;6;0;0
+92004-18;Asnières-sur-Seine/Émile Zola/17;17 Rue Émile Zola;92600;Asnières-sur-Seine;48.9233235, 2.2853356;Voirie;6;0;0
+92007-08;Bagneux/Jean Marin Naudin/5;5 Rue Jean Marin Naudin;92220;Bagneux;48.8059298, 2.3143019;Voirie;6;0;0
+92012-18;Boulogne-Billancourt/Sèvres/80;80 rue de Sèvres;92100;Boulogne-Billancourt;48.83162, 2.230167;Voirie;6;0;0
+92012-50;Boulogne-Billancourt/Alphonse Le Gallo/35;35 quai Alphonse Le Gallo;92100;Boulogne-Billancourt;48.83545, 2.225633;Voirie;6;0;0
+92020-03;Châtillon/Vanves/98;98 Boulevard de Vanves;92320;Châtillon;48.8097437, 2.2827504;Voirie;6;0;0
+92020-06;Châtillon/Division Leclerc/12;12 Avenue de la Division Leclerc;92320;Châtillon;48.7991859, 2.2846898;Voirie;6;0;1
+92023-03;Clamart/Jean Jaurès/255;255 Avenue Jean Jaurès;92140;Clamart;48.8136037, 2.2719303;Voirie;6;0;0
+92023-05;Clamart/Paul Vaillant Couturier/68;68 rue Paul Vaillant Couturier;92140;Clamart;48.8050223, 2.2599305;Voirie;6;0;0
+92023-19;Clamart/Ferrari/1;1 Place Ferrari;92140;Clamart;48.7990591, 2.2625392;Voirie;6;0;0
+92025-01;Colombes/Maréchal Joffre/30;30 rue du Maréchal Joffre;92700;Colombes;48.9219814, 2.2550527;Voirie;6;0;1
+92025-02;Colombes/Facel Vega/1;1 place Facel Vega;92700;Colombes;48.9314, 2.2599;Voirie;6;0;0
+92025-12;Colombes/Félix Faure/7;7 rue Félix Faure;92700;Colombes;48.914886, 2.2535759;Voirie;6;0;0
+92026-04;Courbevoie/Sébastopol/4;4 Rue Sébastopol;92400;Courbevoie;48.8983625, 2.2475158;Voirie;7;0;0
+92026-07;Courbevoie/Arche/49;49 avenue de l'Arche;92400;Courbevoie;48.897827, 2.23817;Voirie;6;0;0
+92032-06;Fontenay-aux-Roses/Paul Langevin/70;70 Avenue Paul Langevin;92260;Fontenay-aux-Roses;48.7835391, 2.2830741;Voirie;6;0;0
+92035-02;La Garenne-Colombes/National/90;90 boulevard National;92250;La Garenne-Colombes;48.9086393, 2.2374151;Voirie;6;0;0
+92040-10;Issy-les-Moulineaux/Garibaldi/18;18 Boulevard Garibaldi;92130;Issy-les-Moulineaux;48.8215502, 2.2613183;Voirie;6;0;0
+92040-14;Issy-les-Moulineaux/Joseph Frantz/46;46 Rue Joseph Frantz;92130;Issy-les-Moulineaux;48.8310957, 2.2665501;Voirie;6;0;0
+92040-15;Issy-les-Moulineaux/Gallieni/72;72 boulevard Gallieni;92130;Issy-les-Moulineaux;48.827482, 2.267632;Voirie;6;0;0
+92040-21;Issy-les-Moulineaux/Bachaga Boualam/1;1 place du Bachaga Boualam;92130;Issy-les-Moulineaux;48.81961, 2.265943;Voirie;6;0;0
+92044-PB;Levallois-Perret/Wilson/80;80 bis rue du président Wilson;92300;Levallois-Perret;48.8944531, 2.2883803;Parking;6;0;0
+92044-PG;Levallois-Perret/Pierre Brossolette/21;21 rue Pierre Brossolette;92300;Levallois-Perret;48.8953575, 2.2922568;Parking;6;0;0
+92044-PI;Levallois-Perret/Wilson/37;37 rue du Président Wilson;92300;Levallois-Perret;48.8913559, 2.291001;Parking;6;0;0
+92044-PJ;Levallois-Perret/Louise Michel/8;8 rue Louise Michel;92300;Levallois-Perret;48.8873092, 2.2844274;Parking;6;0;0
+92048-09;Meudon/De Gaulle/19;19 avenue du Général de Gaulle;92190;Meudon;48.787686, 2.2277686;Voirie;6;0;0
+92050-01;Nanterre/Pesaro/2;2 boulevard Pesaro;92000;Nanterre;48.89709, 2.220012;Voirie;7;0;0
+92050-02;Nanterre/Pésaro/22;22 Boulevard de Pésaro;92000;Nanterre;48.8956, 2.224588;Voirie;6;0;0
+92050-18;Nanterre/Waldeck Rochet/8;8 rue Waldeck Rochet;92000;Nanterre;48.8906294, 2.1983695;Voirie;6;0;0
+92050-22;Nanterre/Lavoisier/14;14 rue Lavoisier;92000;Nanterre;48.8951698, 2.1743332;Voirie;7;0;0
+92050-24;Nanterre/Aimé Césaire/5;5 Boulevard Aimé Césaire;92000;Nanterre;48.89184, 2.22834;Voirie;7;0;0
+92050-25;Nanterre/Suresnes/19;19 rue de Suresnes;92000;Nanterre;48.8854172, 2.2116588;Voirie;6;0;0
+92050-33;Nanterre/Émile Zola/61;61 Boulevard Émile Zola;92000;Nanterre;48.8957277, 2.214156;Voirie;6;0;0
+92062-01;Puteaux/Dion Bouton/30;30 Quai de Dion Bouton;92800;Puteaux;48.8807168, 2.2450631;Voirie;4;0;1
+92063-18;Rueil-Malmaison/Colmar/17;17 Avenue de Colmar;92500;Rueil-Malmaison;48.8871, 2.181057;Voirie;6;0;0
+92063-20;Rueil-Malmaison/Charles Drot/21;21 Rue Charles Drot;92500;Rueil-Malmaison;48.876218, 2.187679;Voirie;6;0;0
+92063-21;Rueil-Malmaison/Lieutenant Colonel Driant/11;11 Rue du Lieutenant Colonel Driant;92500;Rueil-Malmaison;48.87651, 2.200921;Voirie;5;0;0
+92063-22;Rueil-Malmaison/8 mai 1945/2;2 bis Place du 8 mai 1945;92500;Rueil-Malmaison;48.8713591, 2.20283;Voirie;6;0;0
+92072-14;Sèvres/Cristallerie/2;2 Avenue de la Cristallerie;92310;Sèvres;48.82682, 2.22331;Voirie;6;0;0
+92073-07;Suresnes/Georges Pompidou/37;37 avenue Georges Pompidou;92150;Suresnes;48.8755464, 2.2319905;Voirie;6;0;0
+92075-06;Vanves/Antoine Fratacci/34;34 Rue Antoine Fratacci;92170;Vanves;48.82101, 2.28876;Voirie;6;0;0
+93029-03;Drancy/Sadi Carnot/116;116 rue Sadi Carnot;93700;Drancy;48.9258333, 2.4403004;Voirie;5;1;0
+93029-04;Drancy/Latéral/20;20 Chemin Latéral;93700;Drancy;48.93327, 2.455181;Voirie;5;1;0
+93029-05;Drancy/Marcelin Berthelot/2;2 Rue Marcelin Berthelot;93700;Drancy;48.92155, 2.445802;Voirie;6;0;0
+93029-11;Drancy/Henri Barbusse/236;236 Avenue Henri Barbusse;93700;Drancy;48.92347, 2.460301;Voirie;4;0;0
+93029-15;Drancy/Diderot/125;125 rue Diderot;93700;Drancy;48.9196895, 2.4288043;Voirie;5;0;0
+93045-03;Les Lilas/Léon Renault/19;19 rue Léon Renault;93260;Les Lilas;48.8810551, 2.4223705;Voirie;6;1;0
+93055-03;Pantin/Pré Saint Gervais/1;1 rue du Pré Saint Gervais;93500;Pantin;48.890711, 2.4030061;Voirie;6;0;1
+93055-14;Pantin/Anatole France/1;1 avenue Anatole France;93500;Pantin;48.8946957, 2.4254593;Voirie;6;0;0
+93064-01;Rosny-sous-Bois/Claude Pernès/1;1 rue Claude Pernès;93110;Rosny-sous-Bois;48.8728916, 2.4872191;Voirie;5;0;1
+93064-03;Rosny-sous-Bois/Rome/8;8 rue de Rome;93110;Rosny-sous-Bois;48.876218, 2.475338;Voirie;6;0;0
+93064-06;Rosny-sous-Bois/Variot/40;40 Rue du docteur Variot;93110;Rosny-sous-Bois;48.8798646, 2.4931178;Voirie;6;0;0
+93070-09;Saint-Ouen/Édouard Vaillant/28;28 rue Édouard Vaillant;93400;Saint-Ouen;48.9018633, 2.3341342;Voirie;7;0;0
+94002-04;Alfortville/Verdun/39;39 Rue de Verdun;94140;Alfortville;48.79611, 2.427023;Voirie;6;0;0
+94002-09;Alfortville/Joseph Franceschi/1;1bis Avenue Joseph Franceschi;94140;Alfortville;48.80542, 2.421282;Voirie;6;0;0
+94028-10;Créteil/De Gaulle/70;70 avenue du Général de Gaulle;94000;Créteil;48.79663, 2.44808;Voirie;6;0;0
+94028-15;Créteil/Jean-Baptiste Oudry/32;32 boulevard Jean-Baptiste Oudry;94000;Créteil;48.7738474, 2.4600815;Voirie;6;0;0
+94028-16;Créteil/Denfert Rochereau/12;12 rue Denfert Rochereau;94000;Créteil;48.7912032, 2.4504989;Voirie;6;0;0
+94044-03;Limeil-Brévannes/Valenton/55;55 avenue de Valenton;94450;Limeil-Brévannes;48.74356, 2.504422;Voirie;6;0;0
+94067-02;Saint-Mandé/Mongenot/3;3 Rue Mongenot;94160;Saint-Mandé;48.8435084, 2.4171838;Voirie;4;1;0
+94076-03;Villejuif/Paul Vaillant Couturier/9;9 boulevard Paul Vaillant Couturier;94800;Villejuif;48.795504, 2.367414;Voirie;6;0;1
+94076-10;Villejuif/Jean Jaurès/153;153 Rue Jean Jaurès;94800;Villejuif;48.7891489, 2.3670245;Voirie;6;0;0
+94076-12;Villejuif/Paris/149;149 Avenue de Paris;94800;Villejuif;48.79917, 2.3657254;Voirie;6;0;0
+75101-09;Paris/Victoria/17;17 Avenue Victoria;75001;Paris;48.857882, 2.346828;Voirie;4;1;0
+75103-03;Paris/République/17;17 Place de la République;75003;Paris;48.8674504, 2.3630074;Voirie;4;0;0
+75103-09;Paris/Pastourelle/27;27 rue Pastourelle;75003;Paris;48.862833, 2.3593315;Voirie;4;1;0
+75104-10;Paris/Béthunes/36;36 Quai de Béthunes;75004;Paris;48.8510439, 2.3563199;Voirie;4;1;0
+75105-10;Paris/Écoles/19;19 rue des Écoles;75005;Paris;48.8478612, 2.3509722;Voirie;4;1;0
+75105-13;Paris/Lacépède/38;38 Rue Lacépède;75005;Paris;48.8441945, 2.3507523;Voirie;4;0;0
+75106-03;Paris/Madame/18;18 rue Madame;75006;Paris;48.8507628, 2.3319002;Voirie;4;0;0
+75106-15;Paris/Four/38;38 rue du Four;75006;Paris;48.8524509, 2.3314662;Voirie;4;1;0
+75106-17;Paris/Montfaucon/4;4 Rue de Montfaucon;75006;Paris;48.85273, 2.335816;Voirie;4;0;0
+75107-02;Paris/Bourdonnais/45;45 Avenue de la Bourdonnais;75007;Paris;48.85807, 2.299582;Voirie;4;1;0
+75107-05;Paris/Bosquet/81;81 Avenue Bosquet;75007;Paris;48.8553541, 2.305473;Voirie;4;1;0
+75107-17;Paris/Bac/42;42 Rue du Bac;75007;Paris;48.856725, 2.3270428;Voirie;4;0;0
+75107-18;Paris/Invalides/21;21 Boulevard des Invalides;75007;Paris;48.8558178, 2.3152447;Voirie;4;1;0
+75107-21;Paris/Ségur/55;55 avenue de Ségur;75007;Paris;48.8492973, 2.3077697;Voirie;4;1;0
+75108-02;Paris/Messine/12;12 Avenue de Messine;75008;Paris;48.87593, 2.314194;Voirie;4;1;0
+75108-03;Paris/Artois/11;11 rue d'Artois;75008;Paris;48.872759, 2.3080661;Voirie;4;1;0
+75108-04;Paris/Francois 1er/7;7 Rue Francois 1er;75008;Paris;48.8657733, 2.3084191;Voirie;4;1;0
+75108-05;Paris/Delcassé/11;11 avenue Delcassé;75008;Paris;48.8736617, 2.3145075;Voirie;4;1;0
+75108-08;Paris/Saint-Honoré/123;123 Rue du Faubourg Saint-Honoré;75008;Paris;48.8731075, 2.3097967;Voirie;4;0;0
+75108-09;Paris/Rome/73;73 Rue de Rome;75008;Paris;48.881834, 2.32056;Voirie;4;0;0
+75108-13;Paris/Saint-Honoré/161;161 rue du Faubourg Saint-Honoré;75008;Paris;48.8746335, 2.3062488;Voirie;4;0;0
+75108-19;Paris/Monceau/43;43 Rue de Monceau;75008;Paris;48.8778333, 2.310832;Voirie;4;0;0
+75108-32;Paris/Tronchet/19;19 rue Tronchet;75008;Paris;48.8721041, 2.3259728;Voirie;4;0;0
+75108-33;Paris/François 1er/38;38 rue François 1er;75008;Paris;48.8682112, 2.3046348;Voirie;4;1;0
+75109-07;Paris/Jules Lefèbvre/1;1 rue Jules Lefèbvre;75009;Paris;48.8804478, 2.3283632;Voirie;4;1;0
+75109-09;Paris/Chaussée d'Antin/5;5 Rue de la Chaussée d'Antin;75009;Paris;48.8716413, 2.3338862;Voirie;4;0;0
+75109-13;Paris/Victoire/76;76 rue de la Victoire;75009;Paris;48.8753135, 2.332521;Voirie;4;0;0
+75109-19;Paris/La Fayette/56;56 Rue La Fayette;75009;Paris;48.875464, 2.342083;Voirie;4;1;0
+75109-22;Paris/Haussmann/6;6 Boulevard Haussmann;75009;Paris;48.8723178, 2.3387762;Voirie;4;1;0
+75109-23;Paris/Aumale/28;28 rue d'Aumale;75009;Paris;48.878643, 2.3347774;Voirie;4;0;0
+75109-26;Paris/Milton/12;12 rue Milton;75009;Paris;48.8777212, 2.3409177;Voirie;4;0;0
+75110-01;Paris/Valmy/107;107 Quai de Valmy;75010;Paris;48.87484, 2.36289;Voirie;4;1;0
+75110-13;Paris/Saint-Martin/242;242 Rue du Faubourg Saint-Martin;75010;Paris;48.8820721, 2.3664877;Voirie;4;0;0
+75110-15;Paris/Louis Blanc/6;6 Rue Louis Blanc;75010;Paris;48.87893, 2.36908;Voirie;4;0;0
+75110-34;Paris/Buisson Saint Louis/2;2 Rue du Buisson Saint Louis;75010;Paris;48.87179, 2.372482;Voirie;4;0;0
+75102-04;Paris/Quatre septembre/10;10 rue du Quatre septembre;75002;Paris;48.869353, 2.3382066;Voirie;4;1;0
+75102-06;Paris/Notre-Dame des Victoires/21;21 bis rue Notre-Dame des Victoires;75002;Paris;48.8696994, 2.3423247;Voirie;4;0;0
+75103-02;Paris/Saint Martin/243;243 rue Saint Martin;75003;Paris;48.865753, 2.3533572;Voirie;4;1;0
+75103-13;Paris/Saint-Martin/17;17 boulevard Saint-Martin;75003;Paris;48.8681421, 2.360276;Voirie;4;0;0
+75104-01;Paris/François Miron/80;80 rue François Miron;75004;Paris;48.8553672, 2.3591939;Voirie;4;0;0
+75104-06;Paris/Malher/13;13 rue Malher;75004;Paris;48.85648, 2.361378;Voirie;4;0;0
+75104-07;Paris/Pont Louis-Philippe/24;24 Rue du Pont Louis-Philippe;75004;Paris;48.8557271, 2.3562976;Voirie;4;1;0
+75104-11;Paris/Bourdon/41;41 Boulevard Bourdon;75004;Paris;48.8524894, 2.3678127;Voirie;4;0;1
+75105-04;Paris/Saint Jacques/133;133 rue Saint Jacques;75005;Paris;48.8469, 2.343399;Voirie;4;1;0
+75105-16;Paris/Saint-Jacques/221;221 rue Saint-Jacques;75005;Paris;48.8438007, 2.341924;Voirie;4;0;0
+75105-20;Paris/Monge/99;99 Rue Monge;75005;Paris;48.8410649, 2.352048;Voirie;4;1;0
+75105-22;Paris/Henri Barbusse/25;25 rue Henri Barbusse;75005;Paris;48.8414353, 2.3389935;Voirie;4;0;0
+75106-04;Paris/Bérite/3;3 rue de Bérite;75006;Paris;48.847875, 2.3239783;Voirie;4;0;0
+75106-11;Paris/Michelet/6;6 rue Michelet;75006;Paris;48.8425631, 2.3363896;Voirie;4;1;0
+75107-01;Paris/Cognacq Jay/20;20 Rue Cognacq Jay;75007;Paris;48.8618934, 2.3029282;Voirie;4;0;0
+75107-07;Paris/Grenelle/152;152 Rue de Grenelle;75007;Paris;48.85806, 2.310588;Voirie;4;1;0
+75107-11;Paris/Invalides/32;32 boulevard des Invalides;75007;Paris;48.85206, 2.314345;Voirie;4;0;0
+75107-22;Paris/Saint-Germain/188;188 boulevard Saint-Germain;75007;Paris;48.85461, 2.329982;Voirie;4;0;0
+75108-06;Paris/Matignon/2;2 avenue Matignon;75008;Paris;48.87006, 2.312597;Voirie;4;0;0
+75108-10;Paris/Dutuit/1;1 avenue Dutuit;75008;Paris;48.8662011, 2.3156932;Voirie;4;1;0
+75108-12;Paris/Malesherbes/7;7 boulevard Malesherbes;75008;Paris;48.870601, 2.3226488;Voirie;4;1;0
+75108-15;Paris/Saint-Honoré/422;422 Rue Saint-Honoré;75008;Paris;48.8683003, 2.3237257;Voirie;4;0;0
+75109-02;Paris/Madeleine/8;8 Boulevard de la Madeleine;75009;Paris;48.8699421, 2.32731;Voirie;4;1;0
+75110-06;Paris/Villette/55;55 boulevard de la Villette;75010;Paris;48.8758773, 2.3724186;Voirie;4;1;0
+75110-17;Paris/Claude Vellefaux/3;3 avenue Claude Vellefaux;75010;Paris;48.8740623, 2.3703034;Voirie;4;1;0
+75110-30;Paris/Rocroy/15;15 rue Rocroy;75010;Paris;48.879791, 2.350855;Voirie;4;1;0
+75110-33;Paris/Poissonnière/64;64 rue du Faubourg Poissonnière;75010;Paris;48.87517, 2.348162;Voirie;4;0;0
+75111-04;Paris/Ledru Rollin/104;104 avenue Ledru Rollin;75011;Paris;48.85189, 2.376434;Voirie;4;1;0
+75111-15;Paris/République/36;36 avenue de la République;75011;Paris;48.8656694, 2.3721102;Voirie;4;0;0
+75111-17;Paris/République/128;128 avenue de la République;75011;Paris;48.8629398, 2.386178;Voirie;4;1;0
+75111-24;Paris/Taillebourg/2;2 Avenue de Taillebourg;75011;Paris;48.84948, 2.397761;Voirie;4;0;0
+75111-27;Paris/Voltaire/106;106 Boulevard Voltaire;75011;Paris;48.8592806, 2.3773563;Voirie;4;1;1
+75111-29;Paris/Richard Lenoir/63;63 Boulevard Richard Lenoir;75011;Paris;48.86023, 2.3719914;Voirie;4;0;0
+75111-33;Paris/Saint-Maur/36;36 rue Saint-Maur;75011;Paris;48.8615346, 2.3809277;Voirie;4;0;0
+75112-13;Paris/Rapée/46;46 quai de la Rapée;75012;Paris;48.8419525, 2.3728276;Voirie;4;0;0
+75112-14;Paris/Lyon/19;19 Rue de Lyon;75012;Paris;48.8472143, 2.3717355;Voirie;4;0;0
+75112-15;Paris/Saint-Antoine/238;238 Rue du Faubourg Saint-Antoine;75012;Paris;48.8493367, 2.3895684;Voirie;4;1;0
+75112-25;Paris/Reuilly/116;116 rue de Reuilly;75012;Paris;48.840277, 2.3946269;Voirie;4;1;0
+75112-34;Paris/Picpus/122;122 ter Rue de Picpus;75012;Paris;48.8373149, 2.4022445;Voirie;4;1;0
+75113-03;Paris/Paulin Enfert/6;6 rue Paulin Enfert;75013;Paris;48.8186561, 2.3623864;Voirie;4;1;0
+75113-05;Paris/Auguste Blanqui/120;120 boulevard Auguste Blanqui;75013;Paris;48.83164, 2.342243;Voirie;4;1;0
+75113-06;Paris/Rungis/2;2 Rue de Rungis;75013;Paris;48.82195, 2.345853;Voirie;4;0;0
+75113-08;Paris/Tolbiac/245;245 rue de Tolbiac;75013;Paris;48.8262319, 2.3424498;Voirie;4;1;0
+75113-31;Paris/Chevaleret/131;131 rue du Chevaleret;75013;Paris;48.8317344, 2.3728943;Voirie;4;1;0
+75113-35;Paris/Jean Delay/1;Place Jean Delay;75013;Paris;48.823196, 2.354218;Voirie;4;1;0
+75114-01;Paris/25 Août 1944/8;8 Place du 25 Août 1944;75014;Paris;48.822183, 2.3248774;Voirie;4;0;0
+75114-14;Paris/Froideveaux/71;71 rue Froideveaux;75014;Paris;48.8370573, 2.3245391;Voirie;4;0;0
+75114-17;Paris/Leclerc/101;101 Avenue du Général Leclerc;75014;Paris;48.8256986, 2.3263394;Voirie;4;1;0
+75114-18;Paris/Georges Lafenestre/11;11 avenue Georges Lafenestre;75014;Paris;48.8254486, 2.3117069;Voirie;4;1;0
+75114-21;Paris/Sibelle/29;29 avenue de la Sibelle;75014;Paris;48.8249705, 2.3382509;Voirie;4;0;0
+75114-25;Paris/Catalogne/2;2 Place de Catalogne;75014;Paris;48.8367951, 2.3186569;Voirie;4;1;1
+75114-29;Paris/Porte de Montrouge/8;8 Avenue de la Porte de Montrouge;75014;Paris;48.8230593, 2.322823;Voirie;4;1;0
+75115-05;Paris/Grenelle/139;139 boulevard de Grenelle;75015;Paris;48.8483434, 2.3010296;Voirie;4;0;0
+75115-12;Paris/Émile Zola/65;65 Avenue Émile Zola;75015;Paris;48.8467033, 2.2844167;Voirie;4;0;0
+75115-16;Paris/Vaugirard/20;20 Boulevard de Vaugirard;75015;Paris;48.8415895, 2.3183413;Voirie;4;0;0
+75115-18;Paris/Houdart de Lamotte/2;2 Rue Houdart de Lamotte;75015;Paris;48.8406886, 2.2876391;Voirie;4;1;0
+75115-19;Paris/Lecourbe/178;178 Rue Lecourbe;75015;Paris;48.8412037, 2.2977543;Voirie;4;1;0
+75115-20;Paris/Miollis/21;21 rue Miollis;75015;Paris;48.8458068, 2.3038076;Voirie;4;1;0
+75115-33;Paris/Émile Zola/143;143 Avenue Émile Zola;75015;Paris;48.8471694, 2.2953347;Voirie;4;0;0
+75115-41;Paris/Finlay/43;43 rue du Docteur Finlay;75015;Paris;48.8512259, 2.2912934;Voirie;4;0;0
+75115-45;Paris/Suffren/44;44 Avenue de Suffren;75015;Paris;48.8539296, 2.2964095;Voirie;4;0;0
+75116-06;Paris/Grande Armée/81;81 avenue de la Grande Armée;75016;Paris;48.87683, 2.284882;Voirie;4;1;0
+75116-09;Paris/Raymond Poincaré/51;51 avenue Raymond Poincaré;75016;Paris;48.8669712, 2.2858795;Voirie;4;1;0
+75116-10;Paris/Kléber/89;89 avenue Kléber;75016;Paris;48.8639711, 2.2880679;Voirie;4;0;0
+75116-11;Paris/Pierre 1er de Serbie/33;33 Avenue Pierre 1er de Serbie;75016;Paris;48.8673767, 2.2988559;Voirie;4;0;0
+75116-15;Paris/Pétrarque/2;2 rue Pétrarque;75016;Paris;48.8612923, 2.28423;Voirie;4;1;0
+75116-19;Paris/Ranelagh/33;33 Rue du Ranelagh;75016;Paris;48.8538134, 2.2768772;Voirie;4;1;0
+75116-21;Paris/Delessert/23;23 Boulevard Delessert;75016;Paris;48.8585701, 2.2851211;Voirie;4;0;0
+75116-23;Paris/Jean de la Fontaine/77;77 Rue Jean de la Fontaine;75016;Paris;48.8487919, 2.2661693;Voirie;4;0;0
+75117-03;Paris/Navier/1;1 Rue Navier;75017;Paris;48.8955462, 2.3282817;Voirie;4;1;0
+75117-09;Paris/Jouffroy d'Abbans/14;14 rue Jouffroy d'Abbans;75017;Paris;48.88676, 2.311893;Voirie;4;0;0
+75117-16;Paris/Villiers/46;46 Avenue de Villiers;75017;Paris;48.8832876, 2.3080623;Voirie;4;0;0
+75117-37;Paris/Legendre/22;22 bis rue Legendre;75017;Paris;48.8832659, 2.3127515;Voirie;4;0;0
+75117-42;Paris/Ternes/6;6 avenue des Ternes;75017;Paris;48.8782587, 2.2967633;Voirie;4;0;0
+75117-43;Paris/Saint Ouen/67;67 avenue de Saint Ouen;75017;Paris;48.8920729, 2.32707;Voirie;4;0;0
+75118-01;Paris/Henri Huchard/48;48 Rue Henri Huchard;75018;Paris;48.89919, 2.330375;Voirie;4;0;0
+75118-30;Paris/Ordener/1;1 Rue Ordener;75018;Paris;48.890234, 2.359843;Voirie;4;0;0
+75118-43;Paris/Henry Brisson/5;5 Rue Henry Brisson;75018;Paris;48.8984293, 2.3347923;Voirie;4;1;0
+75118-44;Paris/Charles Hermite/52;52 rue Charles Hermite;75018;Paris;48.8990509, 2.3649827;Voirie;4;1;0
+75119-03;Paris/Mathis/35;35 rue Mathis;75019;Paris;48.8911334, 2.3725951;Voirie;4;0;0
+75119-11;Paris/Manin/69;69 Rue Manin;75019;Paris;48.8821153, 2.3814316;Voirie;4;0;0
+75119-17;Paris/David d'Angers/54;54 Rue David d'Angers;75019;Paris;48.8817709, 2.3938462;Voirie;4;0;0
+75119-18;Paris/Mathurin Moreau/6;6 avenue Mathurin Moreau;75019;Paris;48.87808, 2.371484;Voirie;4;1;1
+75119-20;Paris/Meurthe/1;1 Rue de la Meurthe;75019;Paris;48.8893057, 2.3835673;Voirie;4;1;0
+75119-22;Paris/Botzaris/76;76 rue Botzaris;75019;Paris;48.8794816, 2.388647;Voirie;4;0;0
+75119-34;Paris/Flandre/169;169 avenue de Flandre;75019;Paris;48.894, 2.380947;Voirie;4;1;1
+75119-35;Paris/Secrétan/44;44 avenue Secrétan;75019;Paris;48.8806038, 2.37444;Voirie;4;1;0
+75120-04;Paris/Jean Veber/3;3 rue Jean Veber;75020;Paris;48.8624944, 2.4096676;Voirie;4;0;0
+75120-06;Paris/Pyrénées/236;236 Rue des Pyrénées;75020;Paris;48.8674784, 2.3965939;Voirie;4;1;0
+75120-11;Paris/Gambetta/1;1 Avenue Gambetta;75020;Paris;48.8632187, 2.388968;Voirie;4;1;0
+75120-17;Paris/Pyrénées/137;137 Rue des Pyrénées;75020;Paris;48.85844, 2.402911;Voirie;4;1;1
+75120-21;Paris/Pyrénées/89;89 Rue des Pyrénées;75020;Paris;48.854194, 2.405656;Voirie;4;0;0
+75120-23;Paris/Vincennes/65;65 cours de Vincennes;75020;Paris;48.8477968, 2.4060203;Voirie;4;1;0
+75120-35;Paris/Charonne/52;52 boulevard de Charonne;75020;Paris;48.8518536, 2.3982137;Voirie;4;1;0
+92004-01;Asnières-sur-Seine/Sadi Carnot/10;10 Rue Sadi Carnot;92600;Asnières-sur-Seine;48.9100165, 2.2897023;Voirie;6;0;0
+92004-12;Asnières-sur-Seine/Robert Lavergne/11;11 rue Robert Lavergne;92600;Asnières-sur-Seine;48.92852, 2.27253;Voirie;6;0;0
+92012-07;Boulogne-Billancourt/Abel Gance/6;6 place Abel Gance;92100;Boulogne-Billancourt;48.833663, 2.258714;Voirie;6;0;0
+92012-13;Boulogne-Billancourt/Gallieni/114;114 rue Gallieni;92100;Boulogne-Billancourt;48.836581, 2.239424;Voirie;6;0;1
+92012-16;Boulogne-Billancourt/Jean Jaurès/245;245 boulevard Jean Jaurès;92100;Boulogne-Billancourt;48.82851, 2.246519;Voirie;6;0;0
+92019-05;Châtenay-Malabry/Division Leclerc/215;215 avenue de la Division Leclerc;92290;Châtenay-Malabry;48.7637779, 2.2725155;Voirie;6;0;0
+75116-13;Paris/Georges Mandel/42;42 bis avenue Georges Mandel;75016;Paris;48.8639536, 2.2806137;Voirie;4;0;0
+75116-33;Paris/Versailles/112;112 Avenue de Versailles;75016;Paris;48.8437929, 2.2698931;Voirie;4;1;0
+75116-35;Paris/Iéna/63;63 avenue d'Iéna;75016;Paris;48.8713288, 2.295196;Voirie;4;0;0
+75117-14;Paris/Dulong/67;67 Rue Dulong;75017;Paris;48.8863019, 2.3151179;Voirie;4;1;0
+75101-05;Paris/Pyramides/12;12 Rue des Pyramides;75001;Paris;48.8648594, 2.3329713;Voirie;4;1;0
+75101-06;Paris/Amiral Coligny/2;2 Rue de l'Amiral Coligny;75001;Paris;48.85971, 2.34024;Voirie;4;1;0
+75102-15;Paris/Réaumur/116;116 rue Réaumur;75002;Paris;48.86781, 2.34525;Voirie;4;0;0
+75102-16;Paris/Louvre/31;31 rue du Louvre;75002;Paris;48.8660947, 2.3433342;Voirie;4;0;0
+75103-05;Paris/Perrée/18;18 Rue Perrée;75003;Paris;48.8650901, 2.3609551;Voirie;4;1;0
+75103-08;Paris/Filles du Calvaire/19;19 Rue des Filles du Calvaire;75003;Paris;48.8628, 2.3660304;Voirie;4;0;0
+75103-11;Paris/Bretagne/51;51 Rue de Bretagne;75003;Paris;48.8635527, 2.3612023;Voirie;4;1;1
+75104-02;Paris/Fleurs/23;23 Quai aux Fleurs;75004;Paris;48.8548459, 2.3505278;Voirie;4;1;0
+75104-04;Paris/Temple/36;36 rue du Temple;75004;Paris;48.8596689, 2.3542653;Voirie;4;0;0
+75104-14;Paris/Nonnains d'Hyères/1;1 rue des Nonnains d'Hyères;75004;Paris;48.85378, 2.358089;Voirie;4;1;0
+75104-16;Paris/Neuve Saint-Pierre/2;2 rue Neuve Saint-Pierre;75004;Paris;48.853574, 2.363958;Voirie;4;1;0
+75104-PE;Paris/Lobau/4;4 Rue Lobau;75004;Paris;48.8563987, 2.3536857;Parking;0;0;0
+75105-03;Paris/Tournelle/21;21 Quai de la Tournelle;75005;Paris;48.850032, 2.3544309;Voirie;4;0;0
+75105-06;Paris/Gay-Lussac/66;66 rue Gay-Lussac;75005;Paris;48.8420054, 2.3430684;Voirie;4;1;1
+75105-21;Paris/Claude Bernard/16;16 rue Claude Bernard;75005;Paris;48.8397733, 2.3476575;Voirie;4;1;0
+75106-06;Paris/Saint Placide/58;58 Rue Saint Placide;75006;Paris;48.8473613, 2.3263246;Voirie;4;1;0
+75106-07;Paris/Rennes/105;105 Rue de Rennes;75006;Paris;48.8489613, 2.3287351;Voirie;4;0;0
+75106-09;Paris/Joseph Bara/15;15 rue Joseph Bara;75006;Paris;48.84189, 2.333149;Voirie;4;0;0
+75106-21;Paris/Mayet/2;2 rue Mayet;75006;Paris;48.8473691, 2.3182091;Voirie;4;0;0
+75106-PA;Paris/Rennes/155;155 bis rue de Rennes;75006;Paris;48.8451283, 2.3252355;Parking;6;0;0
+75107-08;Paris/Duquesne/26;26 Avenue Duquesne;75007;Paris;48.8511276, 2.3106373;Voirie;4;1;0
+75107-12;Paris/Bac/142;142 rue du Bac;75007;Paris;48.8508194, 2.3237968;Voirie;4;1;0
+75107-15;Paris/Martignac/2;2 rue de Martignac;75007;Paris;48.8593659, 2.3195393;Voirie;4;1;0
+75107-PD;Paris/Joffre/2;2 place Joffre;75007;Paris;48.8538445, 2.3047896;Parking;6;0;0
+75108-07;Paris/Saint-Honoré/91;91 Rue du Faubourg Saint-Honoré;75008;Paris;48.872047, 2.3131252;Voirie;4;0;0
+75108-11;Paris/Berri/10;10 rue de Berri;75008;Paris;48.8724475, 2.3041662;Voirie;4;1;0
+75108-16;Paris/Hoche/31;31 avenue Hoche;75008;Paris;48.8762882, 2.3011232;Voirie;4;0;0
+75108-18;Paris/Courcelles/69;69 Rue de Courcelles;75008;Paris;48.878351, 2.3044935;Voirie;4;1;0
+75109-04;Paris/Turgot/4;4 rue Turgot;75009;Paris;48.8800786, 2.3455235;Voirie;4;1;0
+75109-05;Paris/Clichy/23;23 Boulevard de Clichy;75009;Paris;48.8826, 2.3363;Voirie;4;1;0
+75109-24;Paris/Paul Escudier/2;2 rue Paul Escudier;75009;Paris;48.8805732, 2.3317546;Voirie;4;0;0
+75109-25;Paris/Montmartre/31;31 Bis Rue du Faubourg Montmartre;75009;Paris;48.8738324, 2.3425629;Voirie;4;0;0
+75110-08;Paris/Paradis/28;28 Rue de Paradis;75010;Paris;48.8750753, 2.3523208;Voirie;4;0;0
+75110-25;Paris/Metz/6;6 Rue de Metz;75010;Paris;48.87081, 2.354076;Voirie;4;0;0
+75110-31;Paris/Richerand/11;11 Avenue Richerand;75010;Paris;48.872657, 2.3665993;Voirie;0;0;0
+75111-03;Paris/Philippe Auguste/1;1 avenue Philippe Auguste;75011;Paris;48.8493744, 2.395332;Voirie;4;1;0
+75111-07;Paris/Saint-Antoine/199;199 Rue du Faubourg Saint-Antoine;75011;Paris;48.8505136, 2.3823163;Voirie;4;0;1
+75111-09;Paris/Voltaire/236;236 Boulevard Voltaire;75011;Paris;48.852023, 2.389719;Voirie;4;1;0
+75111-10;Paris/Parmentier/125;125 bis avenue Parmentier;75011;Paris;48.8690795, 2.371679;Voirie;4;1;0
+75111-12;Paris/Voltaire/59;59 Boulevard Voltaire;75011;Paris;48.8619069, 2.3735705;Voirie;4;1;0
+75111-30;Paris/Richard Lenoir/110;110 Boulevard Richard Lenoir;75011;Paris;48.8640621, 2.3713985;Voirie;4;1;0
+75111-36;Paris/Parmentier/62;62 Avenue Parmentier;75011;Paris;48.862875, 2.3765261;Voirie;4;0;0
+75112-01;Paris/Saint-Antoine/16;16 Rue du Faubourg Saint-Antoine;75012;Paris;48.8526773, 2.3710901;Voirie;4;1;0
+75112-07;Paris/Bastille/20;20 boulevard de la Bastille;75012;Paris;48.84803, 2.3677;Voirie;4;0;0
+75112-09;Paris/Crozatier/33;33 rue Crozatier;75012;Paris;48.8470504, 2.3815222;Voirie;4;1;0
+75112-18;Paris/Pirogues de Bercy/44;44 Rue des Pirogues de Bercy;75012;Paris;48.8334137, 2.388111;Voirie;4;1;0
+75112-19;Paris/Diderot/172;172 boulevard Diderot;75012;Paris;48.8480068, 2.3940643;Voirie;4;1;1
+75112-22;Paris/Saint-Mandé/94;94 avenue de Saint-Mandé;75012;Paris;48.8444, 2.407044;Voirie;4;1;0
+75112-30;Paris/Charolais/2;2 rue du Charolais;75012;Paris;48.839191, 2.3878529;Voirie;4;1;0
+75112-32;Paris/Pommard/7;7 rue de Pommard;75012;Paris;48.8355193, 2.3850356;Voirie;4;0;0
+75112-PC;Paris/Picpus/65;65 boulevard de Picpus;75012;Paris;48.8465494, 2.399841;Parking;6;0;0
+75113-09;Paris/Charles Moureu/42;42 rue Charles Moureu;75013;Paris;48.82847, 2.361255;Voirie;4;1;0
+75113-11;Paris/Berbier du Mets/26;26 rue Berbier du Mets;75013;Paris;48.8356, 2.350015;Voirie;4;0;0
+75113-12;Paris/Gouthière/12;12 Rue Gouthière;75013;Paris;48.8204223, 2.3512076;Voirie;4;0;0
+75113-13;Paris/Nationale/77;77 Rue Nationale;75013;Paris;48.8268565, 2.3665764;Voirie;4;1;0
+75113-14;Paris/Auguste Blanqui/50;50 Boulevard Auguste Blanqui;75013;Paris;48.8299453, 2.3499186;Voirie;4;0;0
+75113-15;Paris/Sur Rosalie/4;4 avenue de la Sur Rosalie;75013;Paris;48.83185, 2.354094;Voirie;4;0;0
+75113-16;Paris/Tolbiac/189;189 Rue de Tolbiac;75013;Paris;48.8257617, 2.3512073;Voirie;4;0;0
+75113-20;Paris/Ivry/3;3 avenue d'Ivry;75013;Paris;48.8216717, 2.3690099;Voirie;4;0;0
+75113-24;Paris/Jeanne D'Arc/45;45 rue Jeanne D'Arc;75013;Paris;48.8304583, 2.3672231;Voirie;4;0;0
+75113-26;Paris/Hôpital/157;157 Boulevard de L'Hôpital;75013;Paris;48.8332654, 2.3568808;Voirie;4;1;0
+75113-29;Paris/Hôpital/47;47 boulevard de l'Hôpital;75013;Paris;48.84019, 2.362478;Voirie;4;0;0
+75114-02;Paris/Castagnou/10;10 rue Castagnou;75014;Paris;48.83273, 2.32608;Voirie;4;1;0
+75114-05;Paris/Henri Barbusse/66;66 rue Henri Barbusse;75014;Paris;48.83912, 2.337229;Voirie;4;1;0
+75114-06;Paris/Maine/78;78 Avenue du Maine;75014;Paris;48.8388247, 2.3221905;Voirie;4;1;1
+75114-11;Paris/Départ/23;23 rue du Départ;75014;Paris;48.842173, 2.323305;Voirie;4;1;0
+75114-15;Paris/Plantes/56;56 Rue des Plantes;75014;Paris;48.8283698, 2.3216963;Voirie;4;1;0
+75114-16;Paris/Alésia/33;33 rue d'Alésia;75014;Paris;48.827687, 2.3330017;Voirie;4;0;0
+75114-23;Paris/Arago/85;85 Boulevard Arago;75014;Paris;48.8345527, 2.3361913;Voirie;4;0;0
+75114-PD;Paris/Montparnasse/120;120 boulevard du Montparnasse;75014;Paris;48.8418362, 2.3297916;Parking;6;0;0
+75115-07;Paris/Gerbert/11;11 rue Gerbert;75015;Paris;48.8395783, 2.2986453;Voirie;4;0;0
+75115-08;Paris/Emile Zola/6;6 avenue Emile Zola;75015;Paris;48.846148, 2.278533;Voirie;4;0;0
+75115-09;Paris/Héricart/54;54 rue Héricart;75015;Paris;48.8490157, 2.2874011;Voirie;4;0;0
+75115-13;Paris/Lourmel/79;79 rue de Lourmel;75015;Paris;48.8451076, 2.287503;Voirie;4;0;0
+75115-25;Paris/Vasco de Gama/74;74 rue Vasco de Gama;75015;Paris;48.835427, 2.2851648;Voirie;4;0;0
+75115-27;Paris/Olier/15;15 rue Olier;75015;Paris;48.8351985, 2.2914295;Voirie;4;1;0
+75115-32;Paris/Convention/171;171 Rue de la Convention;75015;Paris;48.8383125, 2.2943442;Voirie;4;0;0
+75115-42;Paris/Maine/4;4 Avenue du Maine;75015;Paris;48.8447061, 2.3198109;Voirie;4;0;0
+75115-44;Paris/Suffren/161;161 Avenue de Suffren;75015;Paris;48.845907, 2.309597;Voirie;4;1;0
+75115-60;Paris/Suffren/112;112 Avenue de Suffren;75015;Paris;48.848923, 2.3045476;Voirie;4;1;0
+75115-PM;Paris/Villa Croix-Nivert/26;26 villa Croix-Nivert;75015;Paris;48.8455506, 2.3012843;Parking;6;0;0
+75116-02;Paris/Iéna/24;24 Avenue d'Iéna;75016;Paris;48.8653828, 2.2945784;Voirie;4;0;0
+75116-03;Paris/Victor Hugo/60;60 Avenue Victor Hugo;75016;Paris;48.870343, 2.286851;Voirie;4;1;1
+75119-07;Paris/Armand Carrel/46;46 rue Armand Carrel;75019;Paris;48.8829, 2.376374;Voirie;4;0;0
+75119-13;Paris/Adolphe Mille/8;8 rue Adolphe Mille;75019;Paris;48.888588, 2.3888175;Voirie;4;1;0
+75119-29;Paris/Flandre/6;6 avenue de Flandre;75019;Paris;48.8846108, 2.3697594;Voirie;4;1;0
+75119-36;Paris/Secrétan/4;4 Avenue Secrétan;75019;Paris;48.8821756, 2.3708912;Voirie;4;0;0
+75120-24;Paris/Plaine/25;25 rue de la Plaine;75020;Paris;48.8500605, 2.4019645;Voirie;4;1;0
+75120-27;Paris/Pyrénées/231;231 rue des Pyrénées;75020;Paris;48.8638511, 2.3991848;Voirie;4;0;0
+75120-32;Paris/Gambetta/19;19 Avenue Gambetta;75020;Paris;48.8638431, 2.3908816;Voirie;4;0;0
+75120-34;Paris/Charonne/158;158 boulevard de Charonne;75020;Paris;48.8569151, 2.3941433;Voirie;4;1;0
+75120-42;Paris/Belleville/265;265 rue de Belleville;75020;Paris;48.87559, 2.399738;Voirie;4;1;0
+75120-43;Paris/Sorbier/14;14 rue Sorbier;75020;Paris;48.867322, 2.3906964;Voirie;4;0;0
+92004-05;Asnières-sur-Seine/Jean-Jacques Rousseau/2;2 Rue Jean-Jacques Rousseau;92600;Asnières-sur-Seine;48.9125949, 2.2948209;Voirie;6;0;0
+92004-06;Asnières-sur-Seine/Colombes/4;4 rue de Colombes;92600;Asnières-sur-Seine;48.9120069, 2.2863503;Voirie;5;0;0
+92004-13;Asnières-sur-Seine/Denfert Rochereau/8;8 Rue Denfert Rochereau;92600;Asnières-sur-Seine;48.9069487, 2.2694015;Voirie;6;0;0
+75110-04;Paris/Louis Blanc/67;67 rue Louis Blanc;75010;Paris;48.8837053, 2.3600404;Voirie;4;0;0
+75110-05;Paris/La Fayette/143;143 Rue La Fayette;75010;Paris;48.8791341, 2.3560476;Voirie;4;0;0
+75110-09;Paris/Grange aux Belles/11;11 Rue de la Grange aux Belles;75010;Paris;48.87383, 2.365097;Voirie;4;0;0
+75110-10;Paris/Pierre Chausson/1;1 rue Pierre Chausson;75010;Paris;48.8702567, 2.3600462;Voirie;4;0;0
+75110-12;Paris/Château Landon/24;24 rue du Château Landon;75010;Paris;48.8814921, 2.3629571;Voirie;4;1;0
+75110-20;Paris/Beaurepaire/31;31 rue Beaurepaire;75010;Paris;48.87119, 2.364206;Voirie;4;1;0
+75110-29;Paris/Château Landon/52;52 rue de Château Landon;75010;Paris;48.8836044, 2.3643056;Voirie;4;0;0
+75110-32;Paris/Saint-Denis/91;91 rue du Faubourg Saint-Denis;75010;Paris;48.8740698, 2.3551424;Voirie;4;0;0
+75111-05;Paris/Voltaire/8;8 Boulevard Voltaire;75011;Paris;48.8657658, 2.3664376;Voirie;4;0;0
+75111-08;Paris/Roquette/162;162 rue de la Roquette;75011;Paris;48.8586443, 2.3841089;Voirie;4;1;0
+75111-20;Paris/Richard Lenoir/36;36 Boulevard Richard Lenoir;75011;Paris;48.857259, 2.37139;Voirie;4;0;0
+75111-25;Paris/Faidherbe/27;27 Rue Faidherbe;75011;Paris;48.8525733, 2.3830368;Voirie;4;1;0
+75112-02;Paris/Ledru-Rollin/88;88 Avenue Ledru-Rollin;75012;Paris;48.8506483, 2.3754501;Voirie;4;1;0
+75112-05;Paris/Charles Bossut/4;4 Rue Charles Bossut;75012;Paris;48.8431847, 2.3837959;Voirie;4;1;0
+75112-11;Paris/Charenton/97;97 Rue de Charenton;75012;Paris;48.8476733, 2.377312;Voirie;4;0;0
+75112-29;Paris/Claude Decaen/26;26 rue Claude Decaen;75012;Paris;48.8351899, 2.4002905;Voirie;4;1;0
+75113-10;Paris/Vulpian/24;24 Rue Vulpian;75013;Paris;48.8310493, 2.3460584;Voirie;4;1;0
+75113-22;Paris/Tolbiac/41;41 rue de Tolbiac;75013;Paris;48.8279725, 2.3721949;Voirie;4;1;0
+75113-23;Paris/Eugène Oudiné/51;51 Rue Eugène Oudiné;75013;Paris;48.8250327, 2.3725162;Voirie;4;0;0
+75113-25;Paris/Vincent Auriol/143;143 boulevard Vincent Auriol;75013;Paris;48.8328237, 2.3624101;Voirie;4;1;1
+75113-28;Paris/Vincent Auriol/81;81 Boulevard Vincent Auriol;75013;Paris;48.8344789, 2.3672062;Voirie;4;1;0
+75113-33;Paris/Tolbiac/15;15 bis rue de Tolbiac;75013;Paris;48.8292818, 2.3744385;Voirie;4;0;0
+75113-36;Paris/Choisy/188;188 Avenue de Choisy;75013;Paris;48.8303916, 2.356917;Voirie;4;0;0
+75113-PL;Paris/Abel Gance/21;21 Rue Abel Gance;75013;Paris;48.8351586, 2.3730473;Parking;6;0;0
+75114-03;Paris/Edgar Quinet/2;2 boulevard Edgar Quinet;75014;Paris;48.8395108, 2.3301676;Voirie;4;1;0
+75114-22;Paris/René Coty/11;11 rue René Coty;75014;Paris;48.8307703, 2.3338877;Voirie;4;1;0
+75114-24;Paris/Arago/99;99 Boulevard Arago;75014;Paris;48.834286, 2.3338533;Voirie;4;0;0
+75114-26;Paris/Nicolas Taunay/7;7 rue Nicolas Taunay;75014;Paris;48.8237041, 2.3195528;Voirie;4;0;0
+75114-27;Paris/Jourdan/26;26 Boulevard Jourdan;75014;Paris;48.8207604, 2.3370783;Voirie;4;0;0
+75114-32;Paris/Port-Royal/97;97 boulevard de Port-Royal;75014;Paris;48.8383124, 2.3408664;Voirie;4;0;0
+75115-02;Paris/Grenelle/37;37 quai de Grenelle;75015;Paris;48.8522422, 2.2861675;Voirie;4;0;0
+75115-03;Paris/Arrivée/16;16 rue de l'Arrivée;75015;Paris;48.843154, 2.321689;Voirie;4;0;0
+75115-04;Paris/Suffren/78;78 avenue de Suffren;75015;Paris;48.851832, 2.2997986;Voirie;4;1;0
+75115-15;Paris/Colonel Pierre Avia/1;1 Rue du Colonel Pierre Avia;75015;Paris;48.8325995, 2.2788853;Voirie;4;1;0
+75115-21;Paris/Leblanc/19;19 Rue Leblanc;75015;Paris;48.83984, 2.273328;Voirie;4;1;0
+75115-24;Paris/Lecourbe/336;336 Rue Lecourbe;75015;Paris;48.8373119, 2.2847182;Voirie;4;1;0
+75115-29;Paris/Dantzig/80;80 Rue de Dantzig;75015;Paris;48.8304, 2.295999;Voirie;4;0;0
+75115-31;Paris/Commerce/5;5 Place du Commerce;75015;Paris;48.8454505, 2.292136;Voirie;4;0;0
+75115-47;Paris/Lacordaire/56;56 Rue Lacordaire;75015;Paris;48.8412857, 2.2813956;Voirie;4;1;0
+75115-53;Paris/Lecourbe/63;63 rue Lecourbe;75015;Paris;48.8435537, 2.3061617;Voirie;4;0;0
+75115-57;Paris/Suffren/2;2 Avenue de Suffren;75015;Paris;48.857, 2.2917;Voirie;4;0;0
+75115-58;Paris/Cotentin/29;29 rue du Cotentin;75015;Paris;48.8385459, 2.3126749;Voirie;4;1;0
+75115-61;Paris/Beaugrenelle/4;4 rue Beaugrenelle;75015;Paris;48.8478735, 2.2847016;Voirie;4;1;0
+75116-07;Paris/Flandrin/83;83 boulevard Flandrin;75016;Paris;48.87031, 2.275537;Voirie;4;1;0
+75116-08;Paris/Mozart/68;68 avenue Mozart;75016;Paris;48.8534164, 2.2685249;Voirie;4;1;0
+75116-17;Paris/Chernoviz/12;12 rue Chernoviz;75016;Paris;48.8579379, 2.2811121;Voirie;4;0;0
+75116-20;Paris/Victor Hugo/180;180 Avenue Victor Hugo;75016;Paris;48.8658188, 2.2762194;Voirie;4;0;0
+75116-25;Paris/Jean de la Fontaine/42;42 rue Jean de la Fontaine;75016;Paris;48.8509978, 2.2719012;Voirie;4;0;0
+75116-28;Paris/Molitor/16;16 Rue Molitor;75016;Paris;48.845175, 2.2641594;Voirie;4;1;0
+75116-30;Paris/Exelmans/32;32 boulevard Exelmans;75016;Paris;48.8412643, 2.2643832;Voirie;4;0;0
+75116-31;Paris/Exelmans/77;77 Boulevard Exelmans;75016;Paris;48.8432612, 2.259497;Voirie;4;0;0
+75116-34;Paris/Marceau/1;1 Avenue Marceau;75016;Paris;48.8654617, 2.2995713;Voirie;4;1;0
+75116-PA;Paris/Foch/37;37 avenue Foch;75016;Paris;48.873676, 2.292006;Parking;6;0;0
+75116-PG;Paris/Versailles/178;178 avenue de Versailles;75016;Paris;48.8396733, 2.2628916;Parking;6;0;0
+75117-04;Paris/Mac Mahon/5;5 Avenue Mac Mahon;75017;Paris;48.8754776, 2.2945178;Voirie;4;0;0
+75117-06;Paris/Ternes/73;73 avenue des Ternes;75017;Paris;48.8794622, 2.2899947;Voirie;4;1;1
+75117-10;Paris/Legendre/126;126 Rue Legendre;75017;Paris;48.88879, 2.32219;Voirie;4;1;0
+75117-13;Paris/Batignolles/92;92 Boulevard des Batignolles;75017;Paris;48.8817521, 2.317631;Voirie;4;0;0
+75117-18;Paris/Pereire/50;50 Boulevard Pereire;75017;Paris;48.8876949, 2.3050366;Voirie;4;1;1
+75117-22;Paris/Chazelles/1;1 rue Chazelles;75017;Paris;48.87959, 2.303352;Voirie;4;0;0
+75117-44;Paris/Saint-Ouen/19;19 avenue de Saint-Ouen;75017;Paris;48.8887616, 2.3257382;Voirie;4;0;0
+75117-PM;Paris/Gouvion Saint-Cyr/26;26 boulevard Gouvion Saint-Cyr;75017;Paris;48.8834652, 2.2880891;Parking;6;0;0
+75118-08;Paris/Fernand Labori/1;1 rue Fernand Labori;75018;Paris;48.898303, 2.3423252;Voirie;4;0;0
+75118-09;Paris/Caulaincourt/71;71 rue Caulaincourt;75018;Paris;48.8895441, 2.3365418;Voirie;4;0;0
+75118-16;Paris/Ramey/62;62 Rue Ramey;75018;Paris;48.8916426, 2.3449781;Voirie;4;1;0
+75118-33;Paris/Chapelle/75;75 rue de la Chapelle;75018;Paris;48.8967147, 2.3591686;Voirie;4;0;0
+75118-34;Paris/Marcadet/7;7 rue Marcadet;75018;Paris;48.8903813, 2.3548773;Voirie;4;1;0
+75118-40;Paris/Clichy/2;2 Boulevard de Clichy;75018;Paris;48.8822728, 2.3395493;Voirie;4;0;0
+75119-01;Paris/Crimée/251;251 Rue de Crimée;75019;Paris;48.894802, 2.372075;Voirie;4;1;0
+75119-08;Paris/Aubervilliers/126;126 rue d'Aubervilliers;75019;Paris;48.8917059, 2.3690678;Voirie;4;0;0
+75119-12;Paris/Lorraine/22;22 rue de Lorraine;75019;Paris;48.8857, 2.3833508;Voirie;4;0;0
+75119-15;Paris/Seine/77;77 Quai de Seine;75019;Paris;48.8886727, 2.378104;Voirie;4;0;0
+75119-19;Paris/Simon Bolivar/96;96 Avenue Simon Bolivar;75019;Paris;48.877449, 2.374112;Voirie;4;0;0
+75119-23;Paris/Sérurier/54;54 Boulevard Sérurier;75019;Paris;48.88075, 2.397629;Voirie;4;1;1
+75119-24;Paris/Jules Romains/1;1 Rue Jules Romains;75019;Paris;48.8727407, 2.3782985;Voirie;4;1;1
+75120-02;Paris/Pyrénées/330;330 rue des Pyrénées;75020;Paris;48.8732135, 2.3903853;Voirie;4;1;1
+75120-09;Paris/Pelleport/105;105 bis Rue Pelleport;75020;Paris;48.86959, 2.400348;Voirie;4;1;0
+75120-12;Paris/Sorbier/40;40 Rue Sorbier;75020;Paris;48.8656837, 2.3929721;Voirie;4;1;0
+75120-26;Paris/Capitaine Ferber/5;5 bis Rue du Capitaine Ferber;75020;Paris;48.865359, 2.405207;Voirie;4;1;0
+75120-40;Paris/Gambetta/249;249 avenue Gambetta;75020;Paris;48.8757323, 2.4060008;Voirie;4;0;0
+92004-07;Asnières-sur-Seine/Georges Guynemer/97;97 Rue Georges Guynemer;92600;Asnières-sur-Seine;48.91587, 2.291084;Voirie;6;0;1
+92004-09;Asnières-sur-Seine/Henri Say/11;11 rue Henri Say;92600;Asnières-sur-Seine;48.9152642, 2.2767942;Voirie;6;0;0
+92004-22;Asnières-sur-Seine/Ménil/273;273 rue du Ménil;92600;Asnières-sur-Seine;48.926, 2.273943;Voirie;6;0;0
+92007-05;Bagneux/Schweitzer/1;1 rue du Docteur Schweitzer;92220;Bagneux;48.79006, 2.313115;Voirie;6;0;0
+92007-07;Bagneux/Louis Pasteur/17;17 Avenue Louis Pasteur;92220;Bagneux;48.7991008, 2.3177148;Voirie;6;0;0
+92012-08;Boulogne-Billancourt/André Morizet/121;121 avenue André Morizet;92100;Boulogne-Billancourt;48.840169, 2.229398;Voirie;6;0;0
+92012-15;Boulogne-Billancourt/République/24;24 Boulevard de la République;92100;Boulogne-Billancourt;48.831826, 2.254098;Voirie;6;0;0
+92023-08;Clamart/De Gaulle/118;118 avenue du Général De Gaulle;92140;Clamart;48.7905884, 2.2639525;Voirie;6;0;0
+92023-12;Clamart/Porte de Trivaux/130;130 rue de la Porte de Trivaux;92140;Clamart;48.78468, 2.237137;Voirie;6;0;0
+92023-13;Clamart/Bourcillière/137;137 rue de la Bourcillière;92140;Clamart;48.7813871, 2.2271271;Voirie;6;0;0
+92025-03;Colombes/Jules Michelet/77;77 rue Jules Michelet;92700;Colombes;48.93237, 2.270769;Voirie;6;0;0
+92025-04;Colombes/Ménelotte/8;8 avenue Ménelotte;92700;Colombes;48.9246525, 2.259313;Voirie;6;0;0
+92025-08;Colombes/Europe/5;5 avenue de l'Europe;92700;Colombes;48.92701, 2.2457526;Voirie;6;0;0
+92025-10;Colombes/Estienne d'Orves/348;348 rue d'Estienne d'Orves;92700;Colombes;48.9108414, 2.2356811;Voirie;6;0;0
+92025-14;Colombes/Charles de Gaulle/156;156 Boulevard Charles de Gaulle;92700;Colombes;48.9151379, 2.2284904;Voirie;6;0;0
+92026-10;Courbevoie/Paix/2;2 Boulevard de la Paix;92400;Courbevoie;48.90076, 2.261656;Voirie;6;0;0
+92032-04;Fontenay-aux-Roses/Division Leclerc/31;31 avenue de la Division Leclerc;92260;Fontenay-aux-Roses;48.795005, 2.274407;Voirie;7;0;0
+92032-08;Fontenay-aux-Roses/Lombard/20;20 Avenue Lombard;92260;Fontenay-aux-Roses;48.78919, 2.293033;Voirie;6;0;0
+92035-03;La Garenne-Colombes/Transvaal/3;3 Rue du Transvaal;92250;La Garenne-Colombes;48.91354, 2.25703;Voirie;6;0;0
+92035-04;La Garenne-Colombes/Colombes/126;126 rue de Colombes;92250;La Garenne-Colombes;48.9047803, 2.2558349;Voirie;7;0;0
+75101-11;Paris/Colonel Driant/7;7 rue du Colonel Driant;75001;Paris;48.8633915, 2.3403966;Voirie;4;0;0
+75102-07;Paris/Bonne Nouvelle/21;21 boulevard Bonne Nouvelle;75002;Paris;48.8703, 2.349722;Voirie;4;0;0
+75102-12;Paris/Uzès/1;1 rue d'Uzès;75002;Paris;48.8704209, 2.3454538;Voirie;4;0;0
+75103-01;Paris/Turenne/46;46 rue de Turenne;75003;Paris;48.8580079, 2.3644786;Voirie;4;1;0
+75103-04;Paris/Réaumur/38;38 Rue Réaumur;75003;Paris;48.8653769, 2.3573678;Voirie;4;1;0
+75103-06;Paris/Volta/39;39 Rue Volta;75003;Paris;48.8665042, 2.3578808;Voirie;4;0;0
+75103-07;Paris/Perle/18;18 Rue de la Perle;75003;Paris;48.8597916, 2.3613291;Voirie;4;0;1
+75103-14;Paris/Saint-Martin/204;204 rue Saint-Martin;75003;Paris;48.8633367, 2.3526978;Voirie;4;0;0
+75104-03;Paris/Saint Gervais/1;1 place Saint Gervais;75004;Paris;48.855842, 2.354055;Voirie;4;1;0
+75104-09;Paris/Henri IV/46;46 Quai Henri IV;75004;Paris;48.8504593, 2.3615731;Voirie;4;0;0
+75104-12;Paris/Schomberg/1;1 rue de Schomberg;75004;Paris;48.84925, 2.362993;Voirie;4;1;0
+75105-01;Paris/Geoffroy-Saint-Hilaire/27;27 rue Geoffroy-Saint-Hilaire;75005;Paris;48.8403227, 2.3562719;Voirie;4;1;0
+75105-02;Paris/Dante/1;1 Rue Dante;75005;Paris;48.8513879, 2.3472476;Voirie;4;0;0
+75105-15;Paris/Valette/2;2 bis rue Valette;75005;Paris;48.8479993, 2.3469365;Voirie;4;1;0
+75106-01;Paris/Jacques Callot/5;5 rue Jacques Callot;75006;Paris;48.8552045, 2.3371078;Voirie;4;0;0
+75106-05;Paris/Péguy/2;2 Rue Péguy;75006;Paris;48.8430076, 2.3280363;Voirie;4;1;0
+75106-13;Paris/Fleurus/2;2 rue de Fleurus;75006;Paris;48.8471079, 2.3321208;Voirie;4;1;0
+75106-19;Paris/Vaugirard/3;3 rue de Vaugirard;75006;Paris;48.84893, 2.340624;Voirie;4;1;0
+75107-09;Paris/Bosquet/41;41 avenue Bosquet;75007;Paris;48.8580816, 2.3040495;Voirie;4;1;0
+75107-10;Paris/Duroc/2;2 Rue Duroc;75007;Paris;48.8482825, 2.315725;Voirie;4;1;0
+75107-13;Paris/Raspail/9;9 Boulevard Raspail;75007;Paris;48.85478, 2.32588;Voirie;4;0;0
+75107-20;Paris/Jean Nicot/10;10 rue Jean Nicot;75007;Paris;48.8611286, 2.3069867;Voirie;4;0;0
+75108-20;Paris/Malesherbes/113;113 boulevard Malesherbes;75008;Paris;48.8800947, 2.3134453;Voirie;4;0;0
+75108-21;Paris/Pierre Charron/62;62 rue Pierre Charron;75008;Paris;48.8696448, 2.3036203;Voirie;4;0;0
+75108-26;Paris/Batignolles/9;9 Boulevard des Batignolles;75008;Paris;48.8830163, 2.325922;Voirie;4;0;0
+75108-27;Paris/Liège/24;24 rue de Liège;75008;Paris;48.8795963, 2.3263307;Voirie;4;1;0
+75108-30;Paris/George V/44;44 Avenue George V;75008;Paris;48.8706486, 2.3012817;Voirie;4;1;0
+75108-31;Paris/Rome/46;46 rue de Rome;75008;Paris;48.8783912, 2.3225683;Voirie;4;1;0
+75108-PD;Paris/Gabriel/2;2 avenue Gabriel;75008;Paris;48.8671133, 2.3206859;Parking;6;0;0
+75109-06;Paris/Provence/35;35 Rue de Provence;75009;Paris;48.874155, 2.338559;Voirie;4;0;0
+75109-10;Paris/Rochechouart/31;31 Boulevard Rochechouart;75009;Paris;48.8829733, 2.3454871;Voirie;4;0;0
+75109-12;Paris/Trudaine/26;26 avenue Trudaine;75009;Paris;48.8810493, 2.3409204;Voirie;4;1;1
+75109-16;Paris/La Fayette/7;7 rue La Fayette;75009;Paris;48.87357, 2.3348418;Voirie;4;0;0
+75109-PF;Paris/Rochechouart/41;41 boulevard de Rochechouart;75009;Paris;48.8828226, 2.3445195;Parking;0;0;0
+75110-03;Paris/Saint-Martin/203;203 Rue du Faubourg Saint-Martin;75010;Paris;48.8800771, 2.3637098;Voirie;4;0;0
+75110-07;Paris/Saint-Martin/168;168 Rue du Faubourg Saint-Martin;75010;Paris;48.877257, 2.3612551;Voirie;4;0;0
+75110-28;Paris/Grange aux Belles/47;47 rue de la Grange aux Belles;75010;Paris;48.87569, 2.36801;Voirie;4;0;0
+75111-06;Paris/Voltaire/182;182 Boulevard Voltaire;75011;Paris;48.8546037, 2.3851992;Voirie;4;1;0
+75111-16;Paris/République/86;86 avenue de la République;75011;Paris;48.8641096, 2.3799691;Voirie;4;0;0
+75111-18;Paris/République/5;5 avenue de la République;75011;Paris;48.8667728, 2.3674134;Voirie;4;0;0
+75111-19;Paris/Saint-Maur/157;157 rue Saint-Maur;75011;Paris;48.8686522, 2.374656;Voirie;4;0;0
+75111-23;Paris/Philippe Auguste/65;65 avenue Philippe Auguste;75011;Paris;48.853661, 2.3923486;Voirie;4;1;0
+75111-32;Paris/Commandant Lamy/2;2 rue du Commandant Lamy;75011;Paris;48.85579, 2.374203;Voirie;4;0;0
+75112-08;Paris/Diderot/24;24 boulevard Diderot;75012;Paris;48.8458586, 2.3748769;Voirie;4;1;1
+75112-10;Paris/Bercy/108;108 rue de Bercy;75012;Paris;48.8391453, 2.3805222;Voirie;4;1;0
+75112-24;Paris/Fabre d'Églantine/2;2 Rue Fabre d'Églantine;75012;Paris;48.8455775, 2.3953738;Voirie;4;1;0
+75112-26;Paris/Picpus/7;7 boulevard de Picpus;75012;Paris;48.8406851, 2.400428;Voirie;4;0;0
+75112-33;Paris/Porte de Charenton/2;2 avenue de la Porte de Charenton;75012;Paris;48.8309152, 2.3990969;Voirie;4;0;0
+75113-02;Paris/Arago/52;52 boulevard Arago;75013;Paris;48.8351639, 2.3446053;Voirie;4;1;0
+75113-17;Paris/Tolbiac/145;145 rue de Tolbiac;75013;Paris;48.8260824, 2.3580488;Voirie;4;1;0
+75113-19;Paris/Choisy/8;8 avenue de Choisy;75013;Paris;48.8205622, 2.3643333;Voirie;4;0;0
+75113-34;Paris/Françoise Dolto/1;1 rue Françoise Dolto;75013;Paris;48.82934, 2.382635;Voirie;4;0;0
+75113-38;Paris/Darmesteter/12;12 rue Darmesteter;75013;Paris;48.8231521, 2.3753988;Voirie;4;0;0
+75113-PH;Paris/Austerlitz/29;29 quai Austerlitz;75013;Paris;48.8394311, 2.3711076;Parking;6;0;0
+75114-10;Paris/Raymond Losserand/145;145 Rue Raymond Losserand;75014;Paris;48.83126, 2.313088;Voirie;4;0;0
+75114-13;Paris/Maine/185;185 avenue du Maine;75014;Paris;48.83072, 2.325855;Voirie;4;0;0
+75114-19;Paris/Raymond Losserand/229;229 Rue Raymond Losserand;75014;Paris;48.828, 2.306022;Voirie;4;1;0
+75114-20;Paris/Reille/59;59 avenue Reille;75014;Paris;48.8236394, 2.3319004;Voirie;4;1;0
+75114-PA;Paris/Commandant René Mouchotte/15;15 rue du Commandant René Mouchotte;75014;Paris;48.8389, 2.3202;Parking;6;0;0
+75115-01;Paris/Fédération/10;10 rue de la Fédération;75015;Paris;48.854819, 2.2904053;Voirie;4;0;0
+75115-22;Paris/Félix Faure/109;109 avenue Félix Faure;75015;Paris;48.8389208, 2.2824849;Voirie;4;1;1
+75115-23;Paris/Balard/108;108 Rue Balard;75015;Paris;48.83731, 2.278682;Voirie;4;0;0
+75115-26;Paris/Convention/75;75 Rue de la Convention;75015;Paris;48.8425678, 2.2848904;Voirie;4;0;0
+75115-34;Paris/Vouillé/47;47 Rue de Vouillé;75015;Paris;48.8338872, 2.3081344;Voirie;4;0;0
+75115-55;Paris/Vaugirard/230;230 Rue de Vaugirard;75015;Paris;48.8404209, 2.3042578;Voirie;4;0;0
+75115-PD;Paris/Falguière/81;81 rue Falguière;75015;Paris;48.8397806, 2.3124999;Parking;6;0;0
+75115-PI;Paris/Lecourbe/141;141 rue Lecourbe;75015;Paris;48.8416996, 2.2996144;Parking;6;0;0
+75116-01;Paris/Grande Armée/13;13 avenue de la Grande Armée;75016;Paris;48.874641, 2.2915841;Voirie;4;1;1
+75116-12;Paris/Murat/1;1 Boulevard Murat;75016;Paris;48.84744, 2.258728;Voirie;4;1;0
+75116-27;Paris/Rémusat/8;8 rue Rémusat;75016;Paris;48.8478478, 2.2723059;Voirie;4;1;1
+75116-29;Paris/Mozart/101;101 Avenue Mozart;75016;Paris;48.8515283, 2.2678125;Voirie;4;0;0
+75116-32;Paris/Murat/98;98 boulevard Murat;75016;Paris;48.8389361, 2.2567427;Voirie;4;0;0
+75116-PE;Paris/Sarrail/1;1 avenue du Général Sarrail;75016;Paris;48.8474576, 2.257008;Parking;6;0;0
+75117-01;Paris/Pereire/271;271 Boulevard Pereire;75017;Paris;48.8781047, 2.2851178;Voirie;4;1;0
+75117-07;Paris/Pouchet/4;4 rue Pouchet;75017;Paris;48.8916817, 2.318781;Voirie;4;1;0
+75117-11;Paris/Navier/47;47 rue Navier;75017;Paris;48.8957574, 2.3242009;Voirie;4;1;0
+75117-12;Paris/Batignolles/27;27 Rue des Batignolles;75017;Paris;48.884737, 2.321309;Voirie;4;1;0
+75117-24;Paris/Courcelles/210;210 rue de Courcelles;75017;Paris;48.8867348, 2.2955406;Voirie;4;0;0
+75117-38;Paris/Georges Berger/2;2 Rue Georges Berger;75017;Paris;48.88093, 2.309852;Voirie;4;1;0
+75118-04;Paris/Poteau/40;40 rue du Poteau;75018;Paris;48.8945152, 2.3412577;Voirie;4;0;0
+75118-10;Paris/Marcadet/150;150 rue Marcadet;75018;Paris;48.8913286, 2.3385496;Voirie;4;1;0
+75118-11;Paris/Championnet/162;162 rue Championnet;75018;Paris;48.8948847, 2.3355224;Voirie;4;1;0
+75118-12;Paris/Polonceau/19;19 Rue Polonceau;75018;Paris;48.8856198, 2.3531328;Voirie;4;0;0
+75118-20;Paris/Rachel/1;1 avenue Rachel;75018;Paris;48.8844148, 2.3305461;Voirie;4;1;0
+75118-31;Paris/Évangile/45;45 rue de l'Évangile;75018;Paris;48.8945881, 2.3668072;Voirie;4;1;0
+75118-35;Paris/Custine/17;17 Rue Custine;75018;Paris;48.8883596, 2.3480345;Voirie;4;1;0
+75119-06;Paris/Flandre/61;61 Avenue de Flandre;75019;Paris;48.888195, 2.3730799;Voirie;4;1;0
+75119-21;Paris/Botzaris/16;16 rue de Botzaris;75019;Paris;48.8768667, 2.3811899;Voirie;4;1;0
+75119-26;Paris/Sept Arpents/9;9 Rue des Sept Arpents;75019;Paris;48.88947, 2.398229;Voirie;4;1;0
+75119-28;Paris/Porte d'Aubervilliers/10;10 avenue de la Porte d'Aubervilliers;75019;Paris;48.899335, 2.371162;Voirie;4;0;0
+75119-30;Paris/Bois/1;1 rue des Bois;75019;Paris;48.8780077, 2.3966042;Voirie;4;0;0
+75120-05;Paris/Gambetta/161;161 Avenue Gambetta;75020;Paris;48.87083, 2.403597;Voirie;4;0;0
+75120-08;Paris/Ménilmontant/122;122 Rue Ménilmontant;75020;Paris;48.8699519, 2.3952568;Voirie;4;0;0
+75120-10;Paris/Guébriant/6;6 rue Guébriant;75020;Paris;48.8730881, 2.4092069;Voirie;4;1;0
+75120-18;Paris/Monte Cristo/24;24 rue Monte Cristo;75020;Paris;48.8552253, 2.3984912;Voirie;4;1;0
+75111-01;Paris/Richard Lenoir/8;8 Boulevard Richard Lenoir;75011;Paris;48.8545026, 2.370183;Voirie;4;0;0
+75111-02;Paris/Parmentier/2;2 avenue Parmentier;75011;Paris;48.8584385, 2.3800903;Voirie;4;1;1
+75111-13;Paris/Ledru Rollin/155;155 Avenue Ledru Rollin;75011;Paris;48.8553267, 2.3783382;Voirie;4;1;0
+75111-22;Paris/Philippe Auguste/126;126 Avenue Philippe Auguste;75011;Paris;48.8577957, 2.390264;Voirie;4;0;0
+75112-03;Paris/Bastille/50;50 boulevard de la Bastille;75012;Paris;48.8515769, 2.369445;Voirie;4;1;0
+75112-12;Paris/Villiot/20;20 Rue Villiot;75012;Paris;48.841876, 2.375976;Voirie;4;0;1
+75112-16;Paris/Reuilly/103;103 bis rue de Reuilly;75012;Paris;48.84283, 2.39217;Voirie;4;0;0
+75112-17;Paris/Henard/3;3 Rue Henard;75012;Paris;48.84154, 2.389211;Voirie;4;1;0
+75112-21;Paris/Soult/137;137 boulevard Soult;75012;Paris;48.8461408, 2.4104799;Voirie;4;0;0
+75112-23;Paris/Saint-Mandé/48;48 Avenue de Saint-Mandé;75012;Paris;48.8449828, 2.4019623;Voirie;4;0;0
+75112-27;Paris/Arnold Netter/10;10 Avenue du Docteur Arnold Netter;75012;Paris;48.8415951, 2.4050137;Voirie;4;1;0
+75112-28;Paris/Laperrine/15;15 avenue du Général Laperrine;75012;Paris;48.8345778, 2.4076458;Voirie;4;0;0
+75112-35;Paris/Émile Laurent/1;1 avenue Émile Laurent;75012;Paris;48.84071, 2.409631;Voirie;4;0;0
+75112-36;Paris/Nation/26;26 Place de la Nation;75012;Paris;48.84756, 2.397014;Voirie;4;0;0
+75113-18;Paris/Caillaux/24;24 rue Caillaux;75013;Paris;48.82223, 2.358905;Voirie;4;1;0
+75113-21;Paris/Ivry/58;58 Avenue D'Ivry;75013;Paris;48.824068, 2.364308;Voirie;4;0;0
+75113-27;Paris/Jeanne D'Arc/157;157 rue Jeanne D'Arc;75013;Paris;48.8365583, 2.3592348;Voirie;4;0;0
+75113-30;Paris/Fernand Braudel/21;21 rue Fernand Braudel;75013;Paris;48.8362302, 2.3724643;Voirie;4;0;0
+75113-32;Paris/Chevaleret/79;79 rue du Chevaleret;75013;Paris;48.82881, 2.376281;Voirie;4;0;0
+75114-04;Paris/Boulard/1;1 rue Boulard;75014;Paris;48.8348549, 2.3297831;Voirie;4;0;0
+75114-07;Paris/Didot/41;41 rue Didot;75014;Paris;48.8318566, 2.3202972;Voirie;4;0;0
+75114-09;Paris/Pernety/46;46 Rue Pernety;75014;Paris;48.8343392, 2.3178674;Voirie;4;0;0
+75114-28;Paris/Didot/80;80 rue Didot;75014;Paris;48.8287242, 2.3165845;Voirie;4;0;0
+75115-11;Paris/Cronstadt/2;2 rue de Cronstadt;75015;Paris;48.83492, 2.302564;Voirie;4;0;0
+75115-17;Paris/Etienne Pernet/26;26 Place Etienne Pernet;75015;Paris;48.8425947, 2.2920513;Voirie;4;1;1
+75115-28;Paris/Dantzig/37;37 rue de Dantzig;75015;Paris;48.8335103, 2.2987201;Voirie;4;1;0
+75115-38;Paris/Mademoiselle/67;67 rue Mademoiselle;75015;Paris;48.8434786, 2.2994811;Voirie;4;1;0
+75115-39;Paris/Émile Duclaux/19;19 Rue Émile Duclaux;75015;Paris;48.842111, 2.3091306;Voirie;4;0;0
+75115-43;Paris/Pasteur/41;41 Boulevard Pasteur;75015;Paris;48.8426446, 2.3132661;Voirie;4;1;0
+75115-46;Paris/Paul Barruel/44;44 rue Paul Barruel;75015;Paris;48.8373656, 2.3059905;Voirie;4;0;0
+75115-48;Paris/Balard/18;18 Rue Balard;75015;Paris;48.8445403, 2.2771564;Voirie;4;1;1
+75115-59;Paris/Morillons/95;95 rue des Morillons;75015;Paris;48.8319972, 2.3048474;Voirie;4;0;0
+75115-PK;Paris/Leblanc/37;37 rue Leblanc;75015;Paris;48.8393383, 2.2756878;Parking;6;0;0
+75116-04;Paris/Victor Hugo/18;18 Avenue Victor Hugo;75016;Paris;48.8724415, 2.2915577;Voirie;4;0;0
+75116-05;Paris/États-Unis/16;16 place des États-Unis;75016;Paris;48.8684739, 2.2926576;Voirie;4;1;0
+75116-14;Paris/Émile Augier/20;20 Boulevard Émile Augier;75016;Paris;48.8602593, 2.2740467;Voirie;4;1;0
+75116-18;Paris/Mozart/2;2 Avenue Mozart;75016;Paris;48.85791, 2.273956;Voirie;4;0;0
+75116-22;Paris/Georges Mandel/1;1 avenue Georges Mandel;75016;Paris;48.8629938, 2.2857836;Voirie;4;0;0
+75117-02;Paris/Porte Pouchet/1;1 Avenue de la Porte Pouchet;75017;Paris;48.8975767, 2.3232481;Voirie;4;1;0
+75117-05;Paris/Courcelles/188;188 rue de Courcelles;75017;Paris;48.88556, 2.296562;Voirie;4;0;0
+75117-21;Paris/Wagram/77;77 Avenue de Wagram;75017;Paris;48.8799479, 2.2993184;Voirie;4;0;0
+75117-30;Paris/Grande Armée/40;40 Avenue de la Grande Armée;75017;Paris;48.876042, 2.288446;Voirie;4;0;0
+75117-34;Paris/Raymond Pitet/7;7 rue Raymond Pitet;75017;Paris;48.8901162, 2.2964035;Voirie;4;0;0
+75117-35;Paris/Pereire/115;115 Boulevard Pereire;75017;Paris;48.88576, 2.299225;Voirie;4;1;0
+75117-40;Paris/Jouffroy d'Abbans/108;108 Rue Jouffroy d'Abbans;75017;Paris;48.8823377, 2.3018911;Voirie;4;0;0
+75117-41;Paris/Charles Fillion/22;22 place Charles Fillion;75017;Paris;48.8884456, 2.3160603;Voirie;4;1;0
+75117-45;Paris/Koënig/12;12 place du Général Koënig;75017;Paris;48.88112, 2.284095;Voirie;4;1;0
+75118-18;Paris/Ordener/65;65 rue Ordener;75018;Paris;48.8913517, 2.3507171;Voirie;4;1;0
+75118-22;Paris/Sofia/16;16 Rue Sofia;75018;Paris;48.8850068, 2.3475914;Voirie;4;1;0
+75118-27;Paris/Jean-François Lépine/1;1 rue Jean-François Lépine;75018;Paris;48.8861019, 2.3594071;Voirie;4;0;0
+75118-38;Paris/Jean Cocteau/2;2 rue Jean Cocteau;75018;Paris;48.8996, 2.351156;Voirie;4;1;0
+75119-05;Paris/Émile Reynaud/4;4 rue Émile Reynaud;75019;Paris;48.90176, 2.38589;Voirie;4;1;0
+75119-09;Paris/Aubervilliers/38;38 rue d'Aubervilliers;75019;Paris;48.8862071, 2.3665248;Voirie;4;0;0
+75119-10;Paris/Algérie/7;7 boulevard d'Algérie;75019;Paris;48.8799263, 2.4004487;Voirie;4;0;0
+75119-14;Paris/Manin/159;159 Rue Manin;75019;Paris;48.886098, 2.3936;Voirie;4;1;0
+75119-16;Paris/Goubet/8;8 rue Goubet;75019;Paris;48.8848179, 2.3901243;Voirie;4;1;0
+75119-33;Paris/René Fonck/2;2 Avenue René Fonck;75019;Paris;48.87869, 2.409082;Voirie;4;1;0
+75120-01;Paris/Pyrénées/356;356 rue des Pyrénées;75020;Paris;48.8738701, 2.3864659;Voirie;4;1;0
+75120-15;Paris/Bagnolet/142;142 Rue de Bagnolet;75020;Paris;48.8614319, 2.4056437;Voirie;4;1;0
+75120-20;Paris/Orteaux/92;92 Rue des Orteaux;75020;Paris;48.8557933, 2.4079711;Voirie;4;0;0
+92022-02;Chaville/Anatole France/28;28 Rue Anatole France;92370;Chaville;48.8038815, 2.1883009;Voirie;6;0;0
+92023-04;Clamart/Verdun/1;1 rue de Verdun;92140;Clamart;48.813219, 2.258785;Voirie;6;0;0
+92025-07;Colombes/Audra/7;7 Avenue Audra;92700;Colombes;48.9278206, 2.2530496;Voirie;6;0;0
+92025-09;Colombes/Renouillers/183;183 Rue des Renouillers;92700;Colombes;48.9236342, 2.2368586;Voirie;6;0;0
+92025-15;Colombes/Pierre Brosselette/42;42 rue Pierre Brosselette;92700;Colombes;48.9095825, 2.2387774;Voirie;6;0;0
+92026-15;Courbevoie/Hérold/6;6 Place Hérold;92400;Courbevoie;48.8963773, 2.256579;Voirie;5;1;1
+92032-05;Fontenay-aux-Roses/Marx Dormoy/71;71 rue Marx Dormoy;92260;Fontenay-aux-Roses;48.794247, 2.297986;Voirie;6;0;0
+92035-01;La Garenne-Colombes/République/52;52 Boulevard de la République;92250;La Garenne-Colombes;48.90628, 2.249208;Voirie;5;1;1
+92040-07;Issy-les-Moulineaux/Gallieni/84;84 boulevard Gallieni;92130;Issy-les-Moulineaux;48.82497, 2.267735;Voirie;6;0;0
+92040-13;Issy-les-Moulineaux/Ernest Renan/9;9 rue Ernest Renan;92130;Issy-les-Moulineaux;48.8295855, 2.2836035;Voirie;6;0;0
+92040-16;Issy-les-Moulineaux/René Jacques/1;1 Rue René Jacques;92130;Issy-les-Moulineaux;48.8238961, 2.2621859;Voirie;4;1;0
+92040-20;Issy-les-Moulineaux/De Gaulle/88;88 avenue du Général de Gaulle;92130;Issy-les-Moulineaux;48.8187533, 2.2778594;Voirie;6;0;0
+92046-05;Malakoff/Paul Vaillant Couturier/49;49 Rue Paul Vaillant Couturier;92240;Malakoff;48.8137426, 2.2959516;Voirie;5;0;0
+92048-02;Meudon/Paris/6;6 rue de Paris;92190;Meudon;48.8169462, 2.2480148;Voirie;6;0;0
+92050-05;Nanterre/Georges Clémenceau/205;205 Avenue Georges Clémenceau;92000;Nanterre;48.886018, 2.215877;Voirie;7;0;0
+92050-16;Nanterre/Maréchal Joffre/28;28 Avenue du Maréchal Joffre;92000;Nanterre;48.8855529, 2.1959224;Voirie;5;0;0
+92050-19;Nanterre/Pablo Neruda/6;6 Rue Pablo Neruda;92000;Nanterre;48.89586, 2.216845;Voirie;6;0;0
+92050-27;Nanterre/Vincent Raspail/5;5 boulevard Vincent Raspail;92000;Nanterre;48.8963559, 2.2076635;Voirie;6;0;0
+92050-30;Nanterre/Salvador Allende/123;123 Rue Salvador Allende;92000;Nanterre;48.89406, 2.22547;Voirie;7;0;1
+92063-01;Rueil-Malmaison/Édouard Belin/8;8 avenue Édouard Belin;92500;Rueil-Malmaison;48.8876242, 2.1693918;Voirie;4;0;0
+92063-02;Rueil-Malmaison/Albert 1er/98;98 avenue Albert 1er;92500;Rueil-Malmaison;48.8855277, 2.1719487;Voirie;6;0;0
+92063-06;Rueil-Malmaison/Bois Préau/1;1 avenue de Bois Préau;92500;Rueil-Malmaison;48.87681, 2.173765;Voirie;6;0;0
+92063-07;Rueil-Malmaison/Richelieu/3;3 place Richelieu;92500;Rueil-Malmaison;48.87339, 2.182237;Voirie;6;0;0
+92063-13;Rueil-Malmaison/Bons Raisins/52;52 Rue des Bons Raisins;92500;Rueil-Malmaison;48.8727271, 2.1947784;Voirie;6;0;0
+92063-15;Rueil-Malmaison/De Montbrison/188;188 Rue du Lieutenant-Colonel de Montbrison;92500;Rueil-Malmaison;48.8573584, 2.1933594;Voirie;6;0;0
+92063-16;Rueil-Malmaison/Napoléon Bonaparte/26;26 avenue Napoléon Bonaparte;92500;Rueil-Malmaison;48.87586, 2.169697;Voirie;6;0;0
+92063-17;Rueil-Malmaison/Henri Sainte-Claire Déville/12;12 rue Henri Sainte-Claire Déville;92500;Rueil-Malmaison;48.8926928, 2.1725973;Voirie;6;0;0
+92071-04;Sceaux/Bagneux/52;52 Rue de Bagneux;92330;Sceaux;48.7842765, 2.3027628;Voirie;6;0;0
+92072-04;Sèvres/Grande Rue/123;123 Grande Rue;92310;Sèvres;48.821593, 2.2050638;Voirie;6;0;0
+92073-10;Suresnes/Stalingrad/11;11 Place Stalingrad;92150;Suresnes;48.86322, 2.201247;Voirie;6;0;0
+92075-02;Vanves/Pruvot/7;7 Rue Pruvot;92170;Vanves;48.8222061, 2.283721;Voirie;7;0;0
+92075-04;Vanves/Jean Bleuzen/77;77 Rue Jean Bleuzen;92170;Vanves;48.82338, 2.296546;Voirie;6;0;1
+92078-01;Villeneuve-la-Garenne/Saint-Exupéry/1;1 allée Saint-Exupéry;92390;Villeneuve-la-Garenne;48.9354388, 2.3261213;Voirie;6;0;0
+93006-02;Bagnolet/Pasteur/124;124 avenue Pasteur;93170;Bagnolet;48.87608, 2.418952;Voirie;6;0;0
+93006-03;Bagnolet/Sadi Carnot/213;213 Rue Sadi Carnot;93170;Bagnolet;48.8777608, 2.4267206;Voirie;6;0;0
+93006-04;Bagnolet/De Gaulle/33;33 avenue du Général de Gaulle;93170;Bagnolet;48.86504, 2.417886;Voirie;6;0;1
+93029-01;Drancy/Saint Stenay/29;29 rue Saint Stenay;93700;Drancy;48.91845, 2.418932;Voirie;7;0;0
+93029-02;Drancy/Couturier/24;24 boulevard Paul Vaillant Couturier;93700;Drancy;48.9222845, 2.4476628;Voirie;6;0;1
+93029-08;Drancy/Jean Jaurès/105;105 Avenue Jean Jaurès;93700;Drancy;48.919047, 2.453108;Voirie;6;0;0
+93029-10;Drancy/Auguste Blanqui/22;22 Rue Auguste Blanqui;93700;Drancy;48.9207972, 2.4559699;Voirie;6;0;0
+93029-13;Drancy/Nouvelle/7;7 rue Nouvelle;93700;Drancy;48.9241686, 2.4358951;Voirie;5;1;0
+93029-14;Drancy/Roger Salengro/3;3 rue Roger Salengro;93700;Drancy;48.9216032, 2.4411713;Voirie;4;0;0
+93063-01;Romainville/Marcel Ethis/15;15 Rue Marcel Ethis;93230;Romainville;48.87798, 2.44464;Voirie;6;0;0
+93064-02;Rosny-sous-Bois/Jean Jaurès/5;5 avenue Jean Jaurès;93110;Rosny-sous-Bois;48.87052, 2.486372;Voirie;6;0;0
+93070-03;Saint-Ouen/Louis Blanc/35;35 Rue Louis Blanc;93400;Saint-Ouen;48.9072038, 2.3314347;Voirie;6;0;0
+93070-08;Saint-Ouen/Lafontaine/1;1 rue Lafontaine;93400;Saint-Ouen;48.901404, 2.327399;Voirie;5;0;0
+94016-01;Cachan/Camille Desmoulins/3;3 Rue Camille Desmoulins;94230;Cachan;48.7942674, 2.3345857;Voirie;5;0;1
+94016-05;Cachan/Carnot/36;36 Avenue Carnot;94230;Cachan;48.7985337, 2.3269032;Voirie;7;0;0
+94018-08;Charenton-le-Pont/Nouveau Bercy/2;2 Rue du Nouveau Bercy;94220;Charenton-le-Pont;48.8232903, 2.3967025;Voirie;6;0;0
+94028-09;Créteil/De Gaulle/61;61 avenue du Général De Gaulle;94000;Créteil;48.787356, 2.446767;Voirie;6;0;0
+94028-13;Créteil/Cotonou/4;4 Rue de Cotonou;94000;Créteil;48.7706043, 2.4707901;Voirie;4;0;0
+94044-04;Limeil-Brévannes/Emile Zola/5;5 rue Emile Zola;94450;Limeil-Brévannes;48.7486341, 2.4788056;Voirie;6;0;0
+94067-01;Saint-Mandé/Galliéni/178;178 Avenue Galliéni;94160;Saint-Mandé;48.8468108, 2.4175419;Voirie;6;0;1
+94076-05;Villejuif/Marcel Paul/6;6 Rue Marcel Paul;94800;Villejuif;48.8003, 2.356283;Voirie;6;0;0
+94076-09;Villejuif/Maxime Gorki/144;144 boulevard Maxime Gorki;94800;Villejuif;48.7893752, 2.3685212;Voirie;6;0;0
+94076-11;Villejuif/Auguste Perret/11;11 Rue Auguste Perret;94800;Villejuif;48.787963, 2.3512833;Voirie;6;0;0
+92004-21;Asnières-sur-Seine/Henri Poincaré/53;53 rue Henri Poincaré;92600;Asnières-sur-Seine;48.931734, 2.2805721;Voirie;0;0;0
+92007-02;Bagneux/René Cros/65;65 Rue René Cros;92220;Bagneux;48.79932, 2.304576;Voirie;6;0;0
+92007-03;Bagneux/Verdun/127;127 rue de Verdun;92220;Bagneux;48.8019167, 2.321829;Voirie;6;0;0
+92007-06;Bagneux/Henri Barbusse/43;43 Avenue Henri Barbusse;92220;Bagneux;48.8018111, 2.3157545;Voirie;6;0;1
+92007-10;Bagneux/Albert Petit/89;89 Avenue Albert Petit;92220;Bagneux;48.7962, 2.319759;Voirie;6;0;0
+92007-13;Bagneux/Mathurins/2;2 rue des Mathurins;92220;Bagneux;48.7920857, 2.3065992;Voirie;6;0;0
+92012-11;Boulogne-Billancourt/Jean Jaurès/61;61 Boulevard Jean Jaurès;92100;Boulogne-Billancourt;48.83975, 2.2400622;Voirie;6;0;0
+92012-30;Boulogne-Billancourt/Reine/12;12 bis Route de la Reine;92100;Boulogne-Billancourt;48.8388074, 2.2505008;Voirie;6;0;0
+92019-04;Châtenay-Malabry/Division Leclerc/81;81 Avenue de la Division Leclerc;92290;Châtenay-Malabry;48.7622887, 2.2838864;Voirie;6;0;0
+92019-07;Châtenay-Malabry/Cyrano de Bergerac/6;6 Place Cyrano de Bergerac;92290;Châtenay-Malabry;48.768495, 2.250599;Voirie;6;0;0
+92020-01;Châtillon/Stalingrad/5;5 boulevard de Stalingrad;92320;Châtillon;48.8111362, 2.298583;Voirie;5;0;0
+92020-04;Châtillon/Paris/21;21 avenue de Paris;92320;Châtillon;48.8048765, 2.2898962;Voirie;6;0;0
+92020-05;Châtillon/Liberté/100;100 boulevard de la LIberté;92320;Châtillon;48.798768, 2.294377;Voirie;7;0;0
+92020-08;Châtillon/Verdun/76;76 avenue de Verdun;92320;Châtillon;48.79988, 2.281576;Voirie;6;0;0
+92023-01;Clamart/Victor Hugo/40;40 Avenue Victor Hugo;92140;Clamart;48.804098, 2.2673976;Voirie;7;0;0
+92023-02;Clamart/Jean Jaurès/137;137 avenue Jean Jaurès;92140;Clamart;48.8080853, 2.2679023;Voirie;5;0;0
+92025-16;Colombes/Victor Hugo/42;42 Rue Victor Hugo;92700;Colombes;48.92087, 2.264111;Voirie;6;0;0
+92036-11;Gennevilliers/Grésillons/215;215 Avenue des Grésillons;92230;Gennevilliers;48.91985, 2.314065;Voirie;6;0;0
+92040-01;Issy-les-Moulineaux/Camille Desmoulins/31;31 Rue Camille Desmoulins;92130;Issy-les-Moulineaux;48.8294072, 2.2644545;Voirie;6;0;0
+92040-18;Issy-les-Moulineaux/Guynemer/16;16 rue Guynemer;92130;Issy-les-Moulineaux;48.83073, 2.278246;Voirie;6;0;0
+92040-22;Issy-les-Moulineaux/Égalité/57;57 Rue de l'Égalité;92130;Issy-les-Moulineaux;48.8167, 2.260423;Voirie;6;0;0
+92044-PC;Levallois-Perret/Georges Pompidou/1;1 Place Georges Pompidou;92300;Levallois-Perret;48.8987082, 2.2813485;Parking;6;0;0
+92044-PD;Levallois-Perret/Ernest Cognacq/33;33 rue Ernest Cognacq;92300;Levallois-Perret;48.8970781, 2.2761987;Parking;6;0;0
+92046-01;Malakoff/Wilson/2;2 avenue du Président Wilson;92240;Malakoff;48.82027, 2.301874;Voirie;6;0;0
+92046-02;Malakoff/Gabriel Péri/120;120 boulevard Gabriel Péri;92240;Malakoff;48.8192396, 2.3040697;Voirie;7;0;0
+92046-03;Malakoff/Stalingrad/27;27 boulevard de Stalingrad;92240;Malakoff;48.8142269, 2.2878426;Voirie;7;0;0
+92048-03;Meudon/Marcel Allégot/12;12 rue Marcel Allégot;92190;Meudon;48.82148, 2.22769;Voirie;6;0;0
+92048-04;Meudon/Verrerie/10;10 rue de la Verrerie;92190;Meudon;48.8204172, 2.23413;Voirie;6;0;1
+92049-10;Montrouge/Barbès/24;24 Rue Barbès;92120;Montrouge;48.81737, 2.327974;Voirie;6;0;0
+92050-04;Nanterre/Pablo Picasso/20;20 Avenue Pablo Picasso;92000;Nanterre;48.89231, 2.214089;Voirie;6;0;0
+92050-10;Nanterre/8 mai 1945/109;109 Rue du 8 mai 1945;92000;Nanterre;48.8926309, 2.2063258;Voirie;6;0;0
+92050-11;Nanterre/République/403;403 Avenue de la République;92000;Nanterre;48.91221, 2.223302;Voirie;6;0;0
+92050-26;Nanterre/Lens/13;13 Rue de Lens;92000;Nanterre;48.8998826, 2.2242026;Voirie;6;0;0
+92050-34;Nanterre/Peupliers/13;13 Rue des Peupliers;92000;Nanterre;48.91278, 2.215178;Voirie;6;0;0
+92062-03;Puteaux/Fernand Pelloutier/2;2 Rue Fernand Pelloutier;92800;Puteaux;48.8830992, 2.2330423;Voirie;6;0;0
+92063-04;Rueil-Malmaison/Albert 1er/2;2 Avenue Albert 1er;92500;Rueil-Malmaison;48.88034, 2.180216;Voirie;6;0;0
+92063-14;Rueil-Malmaison/18 Juin 1940/175;175 avenue du 18 Juin 1940;92500;Rueil-Malmaison;48.8650741, 2.2053436;Voirie;6;0;0
+92063-24;Rueil-Malmaison/18 juin 1940/63;63 avenue du 18 juin 1940;92500;Rueil-Malmaison;48.8680715, 2.1930392;Voirie;5;0;0
+92064-03;Saint-Cloud/Mont Valérien/38;38 ter rue du Mont Valérien;92210;Saint-Cloud;48.8569103, 2.2152544;Voirie;6;1;0
+92072-06;Sèvres/Riocreux/1;1 Rue Riocreux;92310;Sèvres;48.8261, 2.20015;Voirie;6;0;0
+92073-02;Suresnes/Salomon de Rothschild/3;3 Rue Salomon de Rothschild;92150;Suresnes;48.87301, 2.232485;Voirie;6;0;0
+92073-03;Suresnes/Verdun/15;15 Rue de Verdun;92150;Suresnes;48.871036, 2.2276552;Voirie;5;0;1
+92073-09;Suresnes/Tuilerie/33;33 Rue de la Tuilerie;92150;Suresnes;48.8618708, 2.2133061;Voirie;6;0;0
+92073-11;Suresnes/Charles Péguy/1;1 rue Charles Péguy;92150;Suresnes;48.8683519, 2.2255443;Voirie;6;0;0
+92075-01;Vanves/René Sahors/9;9 rue René Sahors;92170;Vanves;48.82097, 2.29165;Voirie;6;0;0
+92075-03;Vanves/Larmeroux/12;12 rue Larmeroux;92170;Vanves;48.8169686, 2.2810709;Voirie;5;0;0
+92078-02;Villeneuve-la-Garenne/Pompidou/29;29 Avenue Georges Pompidou;92390;Villeneuve-la-Garenne;48.9418303, 2.3235384;Voirie;5;1;0
+93006-07;Bagnolet/Edouard Vaillant/60;60 rue Edouard Vaillant;93170;Bagnolet;48.85764, 2.415732;Voirie;6;0;0
+93013-03;Le Bourget/John Fitzgerald Kennedy/2;2 Avenue John Fitzgerald Kennedy;93350;Le Bourget;48.938103, 2.4286035;Voirie;6;0;0
+93055-04;Pantin/Église/44;44 Place de l'Église;93500;Pantin;48.8929204, 2.4138507;Voirie;6;0;0
+93055-12;Pantin/Jean Jaurès/150;150 avenue Jean Jaurès;93500;Pantin;48.90915, 2.398654;Voirie;6;0;0
+93055-17;Pantin/Cartier Bresson/84;84 Rue Cartier Bresson;93500;Pantin;48.9017998, 2.4012521;Voirie;0;0;0
+93070-07;Saint-Ouen/Paul Lafargue/13;13 Rue Paul Lafargue;93400;Saint-Ouen;48.912077, 2.333149;Voirie;6;0;1
+94002-02;Alfortville/Malleret-Joinville/16;16 Avenue du Général Malleret-Joinville;94140;Alfortville;48.8026584, 2.4254131;Voirie;6;0;1
+94003-01;Arcueil/François Raspail/32;32 Avenue François Raspail;94110;Arcueil;48.8053328, 2.3375355;Voirie;6;0;0
+94003-04;Arcueil/République/39;39 Avenue de la République;94110;Arcueil;48.807283, 2.3339929;Voirie;6;0;1
+94016-04;Cachan/Division Leclerc/58;58 Avenue de la Division Leclerc;94230;Cachan;48.785493, 2.3288415;Voirie;6;0;0
+94016-06;Cachan/Saussaies/36;36 Rue des Saussaies;94230;Cachan;48.7862756, 2.3403992;Voirie;6;0;0
+94028-03;Créteil/France Libre/38;38 Avenue de la France Libre;94000;Créteil;48.778891, 2.455066;Voirie;6;0;1
+94028-06;Créteil/Leclerc/216;216 avenue du Général Leclerc;94000;Créteil;48.7818714, 2.4739148;Voirie;0;0;0
+94028-11;Créteil/Gabriel Fauré/18;18 Rue Gabriel Fauré;94000;Créteil;48.7784312, 2.4623984;Voirie;6;0;0
+94028-18;Créteil/Laferrière/142;142 Avenue Laferrière;94000;Créteil;48.8007041, 2.4568599;Voirie;6;0;0
+94028-20;Créteil/Magellan/27;27 rue Magellan;94000;Créteil;48.76895, 2.456477;Voirie;6;0;0
+94044-01;Limeil-Brévannes/Louis Sallé/4;4 Rue Louis Sallé;94450;Limeil-Brévannes;48.75014, 2.489249;Voirie;6;0;1
+94046-04;Maisons-Alfort/Léon Blum/16;16 avenue Léon Blum;94700;Maisons-Alfort;48.79878, 2.433635;Voirie;6;0;0
+94046-09;Maisons-Alfort/Leclerc/145;145 avenue du Général Leclerc;94700;Maisons-Alfort;48.8094628, 2.4344314;Voirie;6;0;0
+94046-11;Maisons-Alfort/De Gaulle/42;42 avenue du Général de Gaulle;94700;Maisons-Alfort;48.8138166, 2.4212353;Voirie;6;0;1
+94076-04;Villejuif/Eugène Varlin/11;11 rue Eugène Varlin;94800;Villejuif;48.794223, 2.363047;Voirie;6;0;0
+94076-07;Villejuif/Karl Marx/51;51 avenue Karl Marx;94800;Villejuif;48.78447, 2.36088;Voirie;6;0;0
+75117-19;Paris/Galvani/25;25 rue de Galvani;75017;Paris;48.8840365, 2.2896705;Voirie;4;1;0
+75117-27;Paris/Niel/28;28 avenue de Niel;75017;Paris;48.881032, 2.2956282;Voirie;4;1;0
+75117-28;Paris/Porte de Villiers/28;28 Avenue de la Porte de Villiers;75017;Paris;48.8854246, 2.2849721;Voirie;4;1;0
+75117-32;Paris/Clichy/181;181 quater Avenue de Clichy;75017;Paris;48.89351, 2.314814;Voirie;4;0;0
+75117-PG;Paris/Ternes/38;38 avenue des Ternes;75017;Paris;48.8789949, 2.2934366;Parking;6;0;0
+75118-05;Paris/Clichy/70;70 Boulevard de Clichy;75018;Paris;48.8836276, 2.3339857;Voirie;4;0;0
+75118-06;Paris/Custine/45;45 rue Custine;75018;Paris;48.8893322, 2.3442809;Voirie;4;0;0
+75118-07;Paris/Championnet/28;28 rue Championnet;75018;Paris;48.895422, 2.3499795;Voirie;4;1;0
+75118-13;Paris/Caulaincourt/17;17 rue Caulaincourt;75018;Paris;48.8872522, 2.3330069;Voirie;4;0;0
+75118-14;Paris/Ordener/120;120 Rue Ordener;75018;Paris;48.8932768, 2.3394999;Voirie;4;1;0
+75118-17;Paris/Duhesme/113;113 Rue Duhesme;75018;Paris;48.8955833, 2.3457215;Voirie;4;1;0
+75118-32;Paris/Boucry/35;35 rue de Boucry;75018;Paris;48.895148, 2.3595823;Voirie;4;0;0
+75119-02;Paris/Botzaris/50;50 rue Botzaris;75019;Paris;48.8792228, 2.3839164;Voirie;4;0;0
+75119-04;Paris/Flandre/119;119 avenue de Flandre;75019;Paris;48.891659, 2.3775942;Voirie;4;0;0
+75120-07;Paris/Ménilmontant/30;30 Boulevard de Ménilmontant;75020;Paris;48.86191, 2.388035;Voirie;4;0;0
+75120-13;Paris/Julien Lacroix/39;39 rue Julien Lacroix;75020;Paris;48.8698372, 2.3850271;Voirie;4;1;0
+75120-14;Paris/Charles et Robert/6;6 rue Charles et Robert;75020;Paris;48.85317, 2.412055;Voirie;4;0;0
+92036-05;Gennevilliers/Camélinat/66;66 Boulevard Camélinat;92230;Gennevilliers;48.93025, 2.301087;Voirie;6;0;0
+92036-10;Gennevilliers/Georges Corete/1;1 Rue Georges Corete;92230;Gennevilliers;48.91757, 2.307151;Voirie;6;0;1
+92040-03;Issy-les-Moulineaux/Leclerc/46;46 Rue du Général Leclerc;92130;Issy-les-Moulineaux;48.824901, 2.2752102;Voirie;6;0;1
+92040-06;Issy-les-Moulineaux/Guynemer/50;50 Rue Guynemer;92130;Issy-les-Moulineaux;48.8284904, 2.2748136;Voirie;6;0;0
+92040-12;Issy-les-Moulineaux/Jean Jaurès/22;22 Avenue Jean Jaurès;92130;Issy-les-Moulineaux;48.8229419, 2.2755104;Voirie;6;0;0
+92044-PA;Levallois-Perret/République/1;1 Place de la République;92300;Levallois-Perret;48.89324, 2.288878;Parking;6;0;0
+92044-PK;Levallois-Perret/Alsace/29;29 rue d'Alsace;92300;Levallois-Perret;48.89313, 2.298737;Parking;6;0;0
+92046-08;Malakoff/Arblade/9;9 avenue Arblade;92240;Malakoff;48.8180219, 2.2918859;Voirie;6;0;0
+92049-12;Montrouge/République/43;43 avenue de la République;92120;Montrouge;48.81909, 2.319941;Voirie;6;0;1
+92050-06;Nanterre/Lenine/65;65 Avenue Lenine;92000;Nanterre;48.88811, 2.191361;Voirie;6;0;0
+92050-09;Nanterre/Gare/9;9 Rue de la Gare;92000;Nanterre;48.89591, 2.198215;Voirie;6;0;0
+92050-13;Nanterre/Champs Pierreux/29;29 avenue des Champs Pierreux;92000;Nanterre;48.8886703, 2.213053;Voirie;4;0;1
+92050-15;Nanterre/Paul Vaillant Couturier/94;94 Rue Paul Vaillant Couturier;92000;Nanterre;48.8829721, 2.2040354;Voirie;6;0;0
+92050-28;Nanterre/Guilleraies/5;5 avenue des Guilleraies;92000;Nanterre;48.8936159, 2.1862673;Voirie;4;0;0
+92050-29;Nanterre/Luaps/17;17 Rue des Luaps Prolongée;92000;Nanterre;48.8803944, 2.2105524;Voirie;4;0;0
+92060-02;Plessis-Robinson/Chaussée de l'Etang/109;109 chaussée de l'Etang;92350;Plessis-Robinson;48.78378, 2.271527;Voirie;5;0;0
+92063-09;Rueil-Malmaison/Auguste Perret/4;4 Rue Auguste Perret;92500;Rueil-Malmaison;48.8893048, 2.1678526;Voirie;4;0;0
+92063-23;Rueil-Malmaison/Empereur/174;174 route de l'Empereur;92500;Rueil-Malmaison;48.86324, 2.181831;Voirie;6;0;0
+92071-02;Sceaux/Gare/3;3 Avenue de la Gare;92330;Sceaux;48.7793414, 2.2814988;Voirie;6;0;1
+92071-05;Sceaux/Houdan/118;118 rue Houdan;92330;Sceaux;48.779037, 2.2891934;Voirie;6;0;0
+92073-06;Suresnes/Carnot/52;52 Rue Carnot;92150;Suresnes;48.8741, 2.227249;Voirie;6;0;0
+92073-13;Suresnes/Fontaine du Tertre/21;21 avenue de la Fontaine du Tertre;92150;Suresnes;48.8699508, 2.218031;Voirie;6;0;0
+92077-02;Ville-d'Avray/Versailles/211;211 Rue de Versailles;92410;Ville-d'Avray;48.81805, 2.164893;Voirie;5;0;0
+93006-06;Bagnolet/Stalingrad/49;49 avenue de Stalingrad;93170;Bagnolet;48.87215, 2.43015;Voirie;6;0;0
+93007-01;Le Blanc-Mesnil/Claude Terrasse/1;1 rue Claude Terrasse;93150;Le Blanc-Mesnil;48.9376981, 2.462453;Voirie;6;1;0
+93063-02;Romainville/Commune de Paris/100;100 rue de la Commune de Paris;93230;Romainville;48.89449, 2.432462;Voirie;6;0;0
+93070-04;Saint-Ouen/Dieumegard/1;1 Rue Dieumegard;93400;Saint-Ouen;48.9082928, 2.3400493;Voirie;6;0;0
+93070-12;Saint-Ouen/Capitaine Glaner/44;44 rue Capitaine Glaner;93400;Saint-Ouen;48.90382, 2.329175;Voirie;6;0;0
+94002-01;Alfortville/Charles de Gaulle/16;16 Rue Charles de Gaulle;94140;Alfortville;48.81456, 2.413135;Voirie;6;0;0
+94002-06;Alfortville/Blanqui/61;61 quai Blanqui;94140;Alfortville;48.80188, 2.415843;Voirie;6;0;0
+94028-02;Créteil/Pierre Brossolette/77;77 avenue Pierre Brossolette;94000;Créteil;48.7896323, 2.4649966;Voirie;6;0;0
+94028-05;Créteil/François Mauriac/2;2 avenue François Mauriac;94000;Créteil;48.785363, 2.4528354;Voirie;6;0;0
+94028-07;Créteil/Juliette Savar/102;102 Rue Juliette Savar;94000;Créteil;48.77664, 2.467872;Voirie;6;0;0
+94028-12;Créteil/Maréchal de Lattre de Tassigny/56;56 avenue du Maréchal de Lattre de Tassigny;94000;Créteil;48.798692, 2.4544537;Voirie;6;0;0
+94028-14;Créteil/Maréchal Lyautey/16;16 Avenue du Maréchal Lyautey;94000;Créteil;48.7913, 2.44625;Voirie;6;0;0
+94028-19;Créteil/Paul Casalis/49;49 Avenue du Docteur Paul Casalis;94000;Créteil;48.7803, 2.469707;Voirie;6;0;0
+94042-02;Joinville-le-Pont/Galliéni/1;1 Avenue du Général Galliéni;94340;Joinville-le-Pont;48.8202532, 2.4745761;Voirie;6;0;0
+94042-03;Joinville-le-Pont/Paris/39;39 rue de Paris;94340;Joinville-le-Pont;48.8168, 2.466862;Voirie;6;0;1
+94044-02;Limeil-Brévannes/Lavoisier/12;12 rue Lavoisier;94450;Limeil-Brévannes;48.73963, 2.490184;Voirie;5;0;0
+94076-02;Villejuif/René Thibert/7;7 Rue René Thibert;94800;Villejuif;48.80543, 2.362543;Voirie;6;0;0
+95210-01;Enghien-les-Bains/Arrivée/19;19 Rue de l'Arrivée;95880;Enghien-les-Bains;48.9727125, 2.3067895;Voirie;6;0;1
+75101-04;Paris/Saint Roch/3;3 Rue Saint Roch;75001;Paris;48.8642939, 2.3314856;Voirie;4;0;0
+75101-13;Paris/Halles/3;3 Rue des Halles;75001;Paris;48.8589371, 2.347433;Voirie;4;0;1
+75101-14;Paris/Bertin Poirée/14;14 rue Bertin Poirée;75001;Paris;48.8588109, 2.3449501;Voirie;4;0;0
+75102-01;Paris/Alexandrie/7;7 rue d'Alexandrie;75002;Paris;48.8680082, 2.3508835;Voirie;4;0;0
+75102-05;Paris/Vivienne/43;43 rue Vivienne;75002;Paris;48.8705626, 2.3408933;Voirie;4;0;0
+75102-09;Paris/Quatre Septembre/26;26 Rue du Quatre Septembre;75002;Paris;48.8700633, 2.3340228;Voirie;4;1;0
+75102-10;Paris/Étienne Marcel/36;36 Rue Étienne Marcel;75002;Paris;48.86502, 2.344388;Voirie;4;1;0
+75102-11;Paris/Paix/24;24 rue de la Paix;75002;Paris;48.8699261, 2.3320835;Voirie;4;0;0
+75102-13;Paris/Dalayrac/19;19 rue Dalayrac;75002;Paris;48.868181, 2.335097;Voirie;4;1;0
+75103-15;Paris/Beaumarchais/87;87 boulevard Beaumarchais;75003;Paris;48.8589682, 2.3673798;Voirie;4;1;0
+75103-PA;Paris/Saint-Martin/252;252 bis rue Saint-Martin;75003;Paris;48.8652403, 2.3535811;Parking;0;0;0
+75104-13;Paris/Marché Neuf/8;8 Quai du Marché Neuf;75004;Paris;48.8541989, 2.345341;Voirie;4;1;0
+75104-15;Paris/Bourdon/9;9 boulevard Bourdon;75004;Paris;48.8484226, 2.366004;Voirie;4;1;0
+75105-05;Paris/Paul Painlevé/7;7 rue Paul Painlevé;75005;Paris;48.8499024, 2.3444286;Voirie;4;1;0
+75105-07;Paris/Bernardins/23;23 rue des Bernardins;75005;Paris;48.84934, 2.350152;Voirie;4;0;0
+75105-08;Paris/Pierre Brossolette/1;1 rue Pierre Brossolette;75005;Paris;48.84196, 2.347262;Voirie;4;1;0
+75105-11;Paris/Linné/18;18 rue Linné;75005;Paris;48.8452566, 2.3548335;Voirie;4;1;0
+75105-12;Paris/Monge/58;58 Rue Monge;75005;Paris;48.8444276, 2.3522773;Voirie;4;1;0
+75106-08;Paris/Notre-Dame des Champs/39;39 Rue Notre-Dame des Champs;75006;Paris;48.8448931, 2.3292576;Voirie;4;0;0
+75106-12;Paris/Raspail/136;136 boulevard Raspail;75006;Paris;48.8425101, 2.3292257;Voirie;4;0;0
+75106-20;Paris/Danton/8;8 rue Danton;75006;Paris;48.85262, 2.342107;Voirie;4;0;0
+75107-03;Paris/Constantine/25;25 rue Constantine;75007;Paris;48.8587263, 2.314834;Voirie;4;0;0
+75108-14;Paris/Constantinople/4;4 rue de Constantinople;75008;Paris;48.8797479, 2.3214351;Voirie;4;1;0
+75108-24;Paris/Friedland/42;42 avenue de Friedland;75008;Paris;48.8741642, 2.2976358;Voirie;4;0;0
+75108-25;Paris/Saint-Augustin/9;9 place Saint-Augustin;75008;Paris;48.875556, 2.319321;Voirie;4;0;0
+75108-29;Paris/Haussmann/61;61 Boulevard Haussmann;75008;Paris;48.87405, 2.325726;Voirie;4;0;0
+75109-01;Paris/Adolphe Max/6;6 place Adolphe Max;75009;Paris;48.883011, 2.329596;Voirie;4;0;0
+75109-03;Paris/Rochambeau/6;6 rue Rochambeau;75009;Paris;48.8774174, 2.3465915;Voirie;4;0;0
+75109-08;Paris/Londres/6;6 rue de Londres;75009;Paris;48.8768536, 2.3302084;Voirie;4;0;0
+75109-18;Paris/Chateaudun/21;21 Rue de Chateaudun;75009;Paris;48.875921, 2.3382898;Voirie;4;0;0
+75110-02;Paris/Guy Patin/10;10 rue Guy Patin;75010;Paris;48.88363, 2.351257;Voirie;4;1;0

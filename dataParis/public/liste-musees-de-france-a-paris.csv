@@ -1,0 +1,73 @@
+NOMREG;NOMDEP;FERME;ANNREOUV;ANNEXE;NOM DU MUSEE;ADR;CP;VILLE;SITWEB;FERMETURE ANNUELLE;PERIODE OUVERTURE;JOURS NOCTURNES;Coordonnées 
+ILE-DE-FRANCE;PARIS;NON;;;Maison de Victor Hugo;6, Place des Vosges;75004;PARIS;www.musee-hugo.paris.fr;Jours fériés;Ouvert de 10h à 18h du mardi au dimanche;;48.854821, 2.366126
+ILE-DE-FRANCE;PARIS;NON;;;Musée de l'Armée;"Hôtel National des Invalides
+129, rue de Grenelle";75007;PARIS;www.invalides.org;1er janvier, 1er mai, 1er novembre, 25 décembre;Ouvert d'avril à septembre de 10h à 18h (18h30 le dimanche), d'octobre à mars de 10h à 17h (17h30 le dimanche). Du 15 juin au 15 septembre l'église du dôme reste ouverte jusqu'à 19h;Mardi jusqu'à 21h d'avril à septembre;48.858219, 2.312885
+ILE-DE-FRANCE;PARIS;NON;;;Mémorial du Maréchal Leclerc de Hauteclocque et de la Libération de Paris - Musée Jean Moulin;23, Allée de la 2ème DB;75015;PARIS;www.ml-leclerc-moulin.paris.fr;;Ouvert du mardi au dimanche de 10h à 18h;;48.840251, 2.319293
+ILE-DE-FRANCE;PARIS;NON;;;Musée Zadkine;100 bis, rue d'Assas;75006;PARIS;www.zadkine.paris.fr;Jours fériés;Ouvert du mardi au dimanche de 10h à 18h;;48.843177, 2.333969
+ILE-DE-FRANCE;PARIS;NON;;;Etablissement Public du Musée d'Orsay;62, Rue de Lille;75007;PARIS;www.musee-orsay.fr;Jours fériés;Ouvert le mardi, mercredi, vendredi au dimanche de 9h30 à 18h, le jeudi de 9h30 à 21h45;Jeudi jusqu'à 21h45;48.859754, 2.325917
+ILE-DE-FRANCE;PARIS;NON;;;Musée de la Musique;221, Avenue Jean-Jaurès;75019;PARIS;www.cite-musique.fr;;Ouvert du mardi au samedi de 12h à 18h, dimanche de 10h à 18h. Nocturne expositions temporaires le vendredi;Vendredi jusqu'à 22h dans des expositions;48.889306, 2.393807
+ILE-DE-FRANCE;PARIS;OUI;Non prévue;;Musée Lénine;4 rue Marie-Rose;75014;PARIS;;;Entrée sur rdv uniquement;;48.826334, 2.330549
+ILE-DE-FRANCE;PARIS;NON;;;Musées des Arts Décoratifs;107, Rue de Rivoli;75001;PARIS;www.lesartsdecoratifs.fr/;;Mardi au vendredi de 11h à 18h - samedi et dimanche de 10h à 18h;Jeudi jusqu'à 21 h;48.863218, 2.3333
+ILE-DE-FRANCE;PARIS;OUI;2014;;Musée de l'Homme (Muséum National d'Histoire Naturelle);Place du Trocadéro;75116;PARIS;www.mnhn.fr;;;;48.862507, 2.282278
+ILE-DE-FRANCE;PARIS;NON;;;Musée National d'Art Moderne (Centre National d'Art et de Culture Georges Pompidou);Place Georges Pompidou;75191;PARIS Cedex 04;www.centrepompidou.fr;1er mai;Ouvert du mercredi au lundi de 11h à 21h (musée et expositions);Jeudi jusqu'à 23h selon les expositions;48.844444, 2.271958
+ILE-DE-FRANCE;PARIS;OUI;2013;;Musée des Monnaies et des Médailles;11, Quai de Conti;75270;PARIS Cedex 06;www.monnaiedeparis.fr;;Ouvert du mardi au vendredi de 11h à 17h30 et le samedi et dimanche de 12h à 17h30;;48.857003, 2.338699
+ILE-DE-FRANCE;PARIS;NON;;;Musée de l'Assistance Publique - Hôpitaux de Paris;10, Rue des Fossés Saint-Marcel;75005;PARIS;www.aphp.fr;Août et jours fériés;Ouvert du mardi au jeudi et le 1er dimanche de chaque mois  de 10h à 18h;;48.838808, 2.356014
+ILE-DE-FRANCE;PARIS;NON;;Musée Carnavalet;Crypte Archéologique du Parvis Notre-Dame;"7, Parvis Notre-Dame
+Place Jean Paul II";75004;PARIS;http://crypte.paris.fr/;Jours fériés;Ouvert de 10h à 18h;;48.854007, 2.34729
+ILE-DE-FRANCE;PARIS;NON;;;Musée National Eugène Delacroix;6, Rue Furstenberg;75006;PARIS;www.musee-delacroix.fr;14 juillet;Ouvert du mercredi au lundi de 9h30 à 17h;;48.854437, 2.335771
+ILE-DE-FRANCE;PARIS;NON;;;Musée Jean-Jacques Henner;43, Avenue de Villiers;75017;PARIS;www.musee-henner.fr ou www.henner-intime.fr;1er janvier, 1er mai, dimanche et lundi de Pentecôte, 14 juillet, 15 août, Noël;Ouvert de 11h-18h du mercredi au lundi. Nocturne jusquà 21h le premier jeudi du mois;Premier jeudi du mois jusqu'à 21h;48.883045, 2.307689
+ILE-DE-FRANCE;PARIS;NON;;;Musée de Montmartre;12, Rue Cortot;75018;PARIS;www.museedemontmartre.fr;;Ouvert de 10h à 18h toute l'année;;48.887709, 2.340577
+ILE-DE-FRANCE;PARIS;OUI;Transfert Roubaix;;Musée Bouchard;25, Rue de l'Yvette;75016;PARIS;www.musee-bouchard.com;;;;48.853611, 2.265988
+ILE-DE-FRANCE;PARIS;NON;;;Musée Nissim de Camondo (Les Arts Décoratifs);63, Rue de Monceau;75008;PARIS;www.lesartsdecoratifs.fr/;1er janvier, 1er mai, 15 août et 25 décembre;Ouvert du mercredi au dimanche de 10h à 17h30;;48.878849, 2.312855
+ILE-DE-FRANCE;PARIS;NON;;;Institut du Monde Arabe;"1, Rue des Fossés Saint-Bernard
+Place Mohammed V";;PARIS;www.imarabe.org;;Ouvert du mardi au jeudi de 10h à 18h, le vendredi de 10h à 21h30, week-end et jours fériés de 10h à 19h;Vendredi jusqu'à 21h30;48.849302, 2.356099
+ILE-DE-FRANCE;PARIS;NON;;;Musée National Gustave Moreau;14, Rue de la Rochefoucauld;75009;PARIS;www.musee-moreau.fr;1er janvier, 1er mai, 25 décembre;Ouvert du mercredi au lundi de 10h à 12h45 et de 14h à 17h15;;48.877878, 2.334383
+ILE-DE-FRANCE;PARIS;OUI;2013 à Marseille;;M.U.C.E.M. - Musée des ATP;6, Avenue du Mahatma Gandhi;75116;PARIS;www.musee-europemediterranee.org;;Ouvert en fonction des expositions temporaires;;48.877026, 2.267791
+ILE-DE-FRANCE;PARIS;NON;;;Etablissement Public du Musée des Arts Asiatiques Guimet;6, Place d'Iéna;75116;PARIS;www.museeguimet.fr;1er janvier, 1er mai, 25 décembre;Ouvert du mercredi au lundi de 10h à 18h;;48.865008, 2.293674
+ILE-DE-FRANCE;PARIS;NON;;;Musée du Quai Branly;222, rue de l'Université;75343;PARIS cedex 07;www.quaibranly.fr;1er mai;Ouvert mardi, mercredi, dimanche de 11h à 19h - jeudi, vendredi, samedi de 11h à 21h. Groupes tous les matin de 9h30 à 11h sauf le dimanche. Ouverture exceptionnelle les lundis de 11h à 19h pendant les vacances de Pâques;Jeudi, vendredi, samedi jusqu'à 21h;48.860136, 2.297256
+ILE-DE-FRANCE;PARIS;NON;;;L'Adresse Musée de la Poste;34, Boulevard de Vaugirard;75731;PARIS Cedex 15;www.museedelaposte.fr ou www.laposte.fr/musee;Jours fériés;Ouvert du lundi au samedi de 10h à 18h et le premier jeudi jusqu'à 20h;Premier jeudi du mois jusqu'à 20h;48.841347, 2.317414
+ILE-DE-FRANCE;PARIS;NON;;;Musée d'Art et d'Histoire du Judaïsme;"Hôtel de Saint-Aignan
+71, Rue du Temple";75003;PARIS;www.mahj.org;1er janvier, 1er mai, Roch Hachana, Yom Kippour;Ouvert du lundi au vendredi de 11h à 18h et le dimanche de 10h à 18h. Nocturne jusqu'à 21h lors des expositions temporaires;Jusqu'à 21h pendant les expositions temporaires;48.86095, 2.355608
+ILE-DE-FRANCE;PARIS;NON;;;Musée Carnavalet-Histoire de Paris;23, Rue de Sévigné;75003;PARIS;www.paris.fr/musees/musee_carnavalet;Jours fériés;Ouvert du mardi au dimanche de 10h à 18h;;48.85699, 2.362856
+ILE-DE-FRANCE;PARIS;OUI;Aucune info;;Galerie dentomologie (Muséum national d'histoire naturelle);57, Rue Cuvier;75005;PARIS;www.mnhn.fr;;;;48.843835, 2.355201
+ILE-DE-FRANCE;PARIS;NON;;;Grande Galerie de l'Evolution (Muséum National d'Histoire Naturelle);"Jardin des Plantes
+36, rue Geoffroy Saint-Hilaire";75005;PARIS;www.mnhn.fr;1er mai;Ouvert du mercredi au lundi de 10h à 18h;;48.841491, 2.355989
+ILE-DE-FRANCE;PARIS;NON;;;Maison de Balzac;47, rue Raynouard;75016;PARIS;www.balzac.paris.fr;;Ouvert du mardi au dimanche de 10h à 18h;;48.85538, 2.280755
+ILE-DE-FRANCE;PARIS;NON;;;Musée du Louvre;34, Quai du Louvre;75001;PARIS;www.louvre.fr;le 1er janvier, le 1er mai, le 8 mai et le 25 décembre 2007;Ouvert lundi, jeudi, samedi et dimanche de  9h à 18h, mercredi et vendredi de 9h à 22h. Le hall Napoléon est ouvert de 9h à 22h;Mercredi et vendredi jusqu'à 22h;48.858905, 2.340991
+ILE-DE-FRANCE;PARIS;NON;;;Musée National du Sport;93, avenue de France;75013;PARIS;www.museedusport.fr;1er janvier, 15 août, 25 décembre;Ouvert du mardi au vendredi de 10h à 18h et le samedi et premier dimanche du mois et jours fériés de 14h à 18h;;48.829117, 2.37785
+ILE-DE-FRANCE;PARIS;NON;;;Musée Cernuschi, Musée des Arts de l'Asie de la ville de Paris;7, Avenue Velasquez;75008;PARIS;www.cernuschi.paris.fr;;Ouvert du mardi au dimanche de 10h à 18h;;48.879693, 2.312194
+ILE-DE-FRANCE;PARIS;OUI;;;Musée Galliéra - Musée de la Mode de la ville de Paris;10, Avenue Pierre 1er de Serbie;75116;PARIS;www.galliera.paris.fr;Musée fermé en dehors des expositions temporaires. Certains jours fériés;Ouvert du mardi au dimanche de 10h à 18h;;48.865846, 2.296361
+ILE-DE-FRANCE;PARIS;NON;;;Musée de la Publicité (Les Arts Décoratifs);107, Rue de Rivoli;75010;PARIS;www.museedelapub.org et www.lesartsdecoratifs.fr/;;;;48.863218, 2.3333
+ILE-DE-FRANCE;PARIS;NON;;;Etablissement public de la Porte Dorée - Aquarium Tropical;293, avenue Daumesnil;75012;PARIS;www.aquarium-portedoree.fr;;Ouvert tous les jours du mardi au vendredi de 10h à 17h15, le week-end de 10h à 19h, y compris certains jours fériés;;48.834887, 2.408507
+ILE-DE-FRANCE;PARIS;NON;;;Établissement Public de la Porte Dorée - Cité Nationale de lHistoire de lImmigration;"Palais de la Porte Dorée
+293, avenue Daumesnil";75012;PARIS;www.histoire-immigration.fr;25 décembre ,  1er janvier, 24 mars, 1er mai, 12 mai et 14 juillet 2008;Ouvert du mardi au vendredi de 10h à 17h30 et le samedi et dimanche de 10h à 19h;;48.834887, 2.408507
+ILE-DE-FRANCE;PARIS;OUI;Pas d'info;;Musée Hébert;"Hôtel de Montmorency-Bours
+85, Rue du Cherche Midi";75006;PARIS;;;;;48.847429, 2.322709
+ILE-DE-FRANCE;PARIS;NON;;;Musée des Monuments Français;"Palais de Chaillot
+1, Place du Trocadéro et du 11 Novembre";75116;PARIS;www.citechaillot.fr;1er janvier, 1er mai, 25 décembre;Ouvert lundi, mercredi, vendredi au dimanche de 11h à 19h, le jeudi de 11h à 21h;Jeudi jusqu'à 21h;48.863047, 2.287325
+ILE-DE-FRANCE;PARIS;NON;;;Musée National de L'Orangerie des Tuileries;Jardin des Tuileries;75001;PARIS;www.musee-orangerie.fr;1er mai et 25 décembre;Ouvert du mercredi au lundi de 9h à 18h;Vendredi jusqu'à 21h pour les individuels;48.862968, 2.323733
+ILE-DE-FRANCE;PARIS;NON;;;Musée d'Art Moderne de la ville de Paris;11, Avenue du Pdt Wilson;75116;PARIS;www.mam.paris.fr;;Ouvert du mardi au dimanche de 10 à 18 h. Nocturne le mercredi jusqu'a 22h pour les expositions temporaires;Mercredi jusqu'à 22h pour les expositions temporaires;
+ILE-DE-FRANCE;PARIS;NON;;;Musée du Service de Santé des Armées du Val-de-Grâce;1, Place Alphonse Laveran;75230;PARIS Cedex 05;www.valdegrace.org;;Ouvert de mardi au jeudi et samedi, dimanche de 12 h à 18 h;;48.840814, 2.341091
+ILE-DE-FRANCE;PARIS;NON;;;Musée National du Moyen Age-Thermes de Cluny;6, Place Paul Painlevé;75005;PARIS;www.musee-moyenage.fr;1er janvier, 1er mai et 25 décembre;Ouvert du mercredi au lundi de 9h15 à 17h45;;48.850325, 2.343921
+ILE-DE-FRANCE;PARIS;NON;;;Musée de la Chasse et de la Nature;60, rue des Archives;75003;PARIS;www.chassenature.org/;Jours fériés;Ouvert du mardi au dimanche de 11h à 18h et le mercredi de 11h à 21h30;;48.861337, 2.358433
+ILE-DE-FRANCE;PARIS;NON;;;Musée Cognacq-Jay, Musée du XVIIIe siècle de la ville de Paris;8, Rue Elzévir;75003;PARIS;www.cognacq-jay.paris.fr;Certains jours fériés;Ouvert du mardi au dimanche de 10h à 18h;;48.858257, 2.361524
+ILE-DE-FRANCE;PARIS;NON;;;Galerie d'Anatomie Comparée et de Paléontologie (Muséum d'Histoire Naturelle);"Jardin des Plantes
+2, rue Buffon";75005;PARIS;www.mnhn.fr;1er mai;Ouvert du mercredi au lundi de 10h à 17h30;;48.842137, 2.359895
+ILE-DE-FRANCE;PARIS;OUI;2013;;Galerie de Minéralogie et de Géologie (Muséum d'Histoire Naturelle);"Jardin des Plantes
+36, Rue Geoffroy Saint-Hilaire";75005;PARIS;www.mnhn.fr;1er mai;Ouvert du mercredi au lundi de 10h à 17h;;48.841491, 2.355989
+ILE-DE-FRANCE;PARIS;NON;;;Musées Arts Décoratifs  Mode et du Textile;107, Rue de Rivoli;75001;PARIS;www.lesartsdecoratifs.fr;;Ouvert du mardi au vendredi de 11h à 18h, samedi et dimanche de 10h à 18h, nocturnele jeudi jusqu'à 21h;Jeudi jusqu'à 21h;48.863218, 2.3333
+ILE-DE-FRANCE;PARIS;NON;;Musée Carnavalet;Les Catacombes;"1, avenue du Colonel Henri Rol-Tanguy
+(Place Denfert-Rochereau)";75014;PARIS;www.catacombes-de-paris.fr;Jours fériés, dimanche de Pâques et de Pentecôtes;Ouvert du mardi au dimanche de 10h à 17h;;48.833784, 2.331927
+ILE-DE-FRANCE;PARIS;NON;;;Musée de la Vie Romantique;16, Rue Chaptal;75009;PARIS;http://www.paris.fr/portail/Culture/Portal.lut?page_id=5851;;Ouvert du mardi au dimanche de 10h à 18h;;48.880899, 2.333278
+ILE-DE-FRANCE;PARIS;NON;;;Musée National Auguste Rodin;"Hôtel Biron
+77, rue de Varenne";75007;PARIS;www.musee-rodin.fr;1er janvier, 1er mai, 25 décembre;Ouvert du mardi au dimanche de 10h à 18h;;48.855868, 2.31598
+ILE-DE-FRANCE;PARIS;NON;;;Musée d'Ennery;59, Avenue Foch;75116;PARIS;www.guimet.fr;1er janvier, 1er mai, 25 décembre;Ouvert les jeudis, samedis et dimanches après-midi uniquement en visite conférence, sur réservation;;48.871887, 2.282381
+ILE-DE-FRANCE;PARIS;NON;;;Musée Bourdelle;16, Rue Antoine Bourdelle;75015;PARIS;www.bourdelle.paris.fr;;Ouvert du mardi au dimanche de 10h à 18h;;48.843017, 2.31883
+ILE-DE-FRANCE;PARIS;NON;;;Musée National des Techniques (Conservatoire National des Arts et Métiers);292, rue Saint-Martin;75141;PARIS cedex 03;www.arts-et-metiers.net;1er mai, 25 décembre;Ouvert du mardi au dimanche de 10 h à 18h, jeudi jusqu'à 21h30;Jeudi jusqu'à 21 h 30;48.866961, 2.354634
+ILE-DE-FRANCE;PARIS;OUI;Pas encore ouvert;;Musée National Picasso;"Hôtel Salé
+5, Rue de Thorigny";75003;PARIS;www.musee-picasso.fr;1er janvier et 25 décembre;Ouvert de 9h30 à 18h d'avril à septembre et de 9h30 à 17h30 d'octobre à mars;;48.8597, 2.362644
+ILE-DE-FRANCE;PARIS;OUI;Non prévue;;Galerie de Botanique (Muséum National National d'Histoire Naturelle);;75005;PARIS;;;;;
+ILE-DE-FRANCE;PARIS;NON;;;Musée National de la Marine;17, Place du Trocadéro;75116;PARIS;www.musee-marine.fr;1er janvier, 1er mai, 25 décembre;Ouvert lundi, mercredi au vendredi de 11h à 18h, samedi-dimanche de 11h à 19h;;48.862492, 2.287378
+ILE-DE-FRANCE;PARIS;NON;;;Musée National de la Légion d'Honneur et des Ordres de Chevalerie;2, Rue de la Légion d'Honneur;75007;PARIS;www.musee-legiondhonneur.fr;1er janvier, 1er mai, 15 août, 1er novembre et 25 décembre;Ouvert du mercredi au dimanche de 13h à 18h. Accessible le mardi pour les groupes sur réservation;;48.860433, 2.324889
+ILE-DE-FRANCE;PARIS;NON;;;Petit Palais, Musée des Beaux-Arts de la ville de Paris;Avenue Winston-Churchill;75008;PARIS;www.petitpalais.paris.fr;;Ouvert tous les jours de 10h à 18h;Mardi jusqu'à 20h;48.866084, 2.313813
+ILE-DE-FRANCE;PARIS;NON;;;Musée de la Franc-Maçonnerie;16, Rue Cadet;75009;PARIS;www.museefm.org;Jours fériés;Ouvert du Lundi au vendredi de 10h à 12h30 et de  14h à 18h, le samedi de 10h à 13h et de 14h à 19h;;48.874952, 2.343057
