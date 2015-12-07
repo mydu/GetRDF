@@ -8,3 +8,8 @@
 <http://flask.pocoo.org/>
 #####3.Go to the project folder and run
 	python process.py
+
+####Features
+* Single page responsive application without submiting form
+* Support multiple files uploading, converting and downloading
+* Allow user defined prefix, datatype, and external ontology (OWL)
